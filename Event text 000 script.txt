@@ -1,141 +1,308 @@
-Natsu: うぇっぷ …やっとついたか…
-Happy: ナツは乗り物、弱いねー	
-Happy: まあ、今回はオイラがサポートするか
-	   がんばってね
-Natsu: あぁ…うっぷ
-	   よろしくたのむ…
-Happy: あい！
-Happy: それじゃ～さっそく
-	   移動の方法を教えてあげるよ
-Happy: アナログパッドを進みたい方向に
-	   入力したら移動する事ができるんだ
-Happy: あと、×ボタンでジャンプ
-Happy: アナログパッド入力中に
-	   Ｒボタンで前転ができるから上手く使ってね
-Happy: それじゃっ！　街を調べてみようか
-Lucy: え！？　あんたフェアリーテイルの
-	  魔導士なの？
-Bora: ああ、フェアリーテイルのサラマンダーって
-	  聞いたことない？
-Lucy: ある！
-Bora: ふふ…君
-	  フェアリーテイルに入りたいんだって？
-Bora: ボクの船上パーティーにきてくれたら
-	  マスターに話を通してあげるよ
-Lucy: はぁん、ステキなパーティーになりそうね
-Bora: わ、わかりやすい性格してるね…君
-Happy: ナツ…
-Natsu: ………
-Bora: ようこそ、わが盗賊船へ！
-	  おとなしくしてもらうよ…お嬢さん
-Lucy: えっ！　どういう事？
-Lucy: あたしをフェアリーテイルに
-	  入れてくれるんじゃなかったの！？
-Bora: フン！　バカめ！
-	  あんたも今から商品だ！！
-Lucy: これがフェアリーテイルの魔導士なの…？
-Lucy: 最低の魔導士じゃない！！
-Lucy: なにっ？
-Bora: なにもんだぁ！
-?Natsu: ………
-Natsu: ううう…だめだーやっぱ乗り物はむり…
-Lucy: かっこわるー！
-Happy: ねぇねぇ
-Lucy: げ！　猫がしゃべった！
-Happy: 細かい話は後だよ、今は協力して戦って
-Lucy: わ、わかったわ！
-	  ちょっとアンタいくわよ！
-Natsu: …ダメ…ぜんぜんむり…
-Lucy: 1
-Lucy: 2
-Lucy: 2
-Bora: 1
-Aquarius: 1
-Lucy: 1
-Lucy: 1
-Aquarius: 2
-Aquarius: 1
-Lucy: 1
-Natsu: 1
-Bora: 1
-Natsu: 1
-Bora: 1
-Natsu: 2
-Lucy: 2
-Natsu: 2
-Natsu: 1
-Bora: 2
-Happy: 2
-Natsu: 1
-Happy: 2
-Happy: 2
-Happy: 2
-Happy: 2
-Happy: 2
-Happy: 2
-Natsu: 1
-Happy: 2
-Happy: 2
-Happy: 2
-Natsu: 1
-Happy: 2
-Natsu: 1
-Happy: 1
-Happy: 2
-Happy: 1
-Happy: 2
-unknown: 1
-Natsu: 1
-Lucy: 1
-Natsu: 2
-Natsu: 1
-Lucy: 1
-Return:
-Lucy: 1
-Happy: 1
-Lucy: 2
-Natsu: 1
-Natsu: 2
-Mira: 1
-Mira: 1
-Natsu: 2
-Mira: 2
-Mira: 1
-Mira: 1
-Mira: 1
-Mira: 2
-Master: 2
-Master: 1
-Natsu: ………
-Lucy: 1
-Master: 1
-Master: 1
-Lucy: 1
-Master: 2
-Master: 2
-Natsu: 2
-Master: 2
-Lucy: 2
-Natsu: 1
-happy: 1
-Master: 1
-Lucy: 1
-Master: 1
-Lucy: 1
-Lucy: 1
-Outside:
-Lucy: 1
-Lucy: 2
-Natsu: 1
-Happy: 1
-Lucy: 1
-natsu: 1
-Lucy: 1
-natsu: 2
-Lucy: 2
-natsu: 2
-Lucy: 2
-Lucy: 1
-natsu: 1
-Happy:1
-Natsu: 2
+// Translation Format :
+[Speaker] : [Japanese text] : [English translation] : [Actual Implementation]
+Natsu : うぇっぷ…やっとついたか… : Ughh... I finally got up...
+Happy : ナツは乗り物、弱いねー : Natsu is motion-sick
+Happy : まあ、今回はオイラがサポートするか : We all have some weaknesses!
+Happy : がんばってねー : Its ok.
+Natsu : あぁ…うっぷ よろしくたのむ… : ughh...I feel sick... 
+Happy : あい！ : Aye! : Aye! 
+Happy : それじゃ～さっそく : Ok now,
+Happy : 移動の方法を教えてあげるよ : I'll teach you how to move
+Happy : アナログパッドを進みたい方向に : Use the analog stick to
+Happy : 入力したら移動する事ができるんだ : move in that direction
+Happy : あと、×ボタンでジャンプ : Then, X is the jump
+Happy : アナログパッド入力中に : during analog input
+Happy : Ｒボタンで前転ができるから上手く使ってね : you can use R to roll 
+Happy : それじゃっ！ : got it?
+Happy : 街を調べてみようか : lets search the town
+Lucy : え！？ あんたフェアリーテイルの : Eh!? Your are a mage from
+Lucy : 魔導士なの？: Fairy Tail?
+Bora : ああ、フェアリーテイルのサラマンダーって : Well, I'm the Salamander
+Bora : 聞いたことない？: ever heard me?
+Bora : ふふ…君  : Hehe..
+Bora : フェアリーテイルに入りたいんだって？ : Do you wanna join our guild?
+Bora : ボクの船上パーティーにきてくれたら : If you come to the party
+Bora : マスターに話を通してあげるよ : I'll talk to the master
+Lucy : はぁん、ステキなパーティーになりそうね : Haha, you bet I will!
+Bora : わ、わかりやすい性格してるね…君  : heh, a plain personality..
+Happy : ナツ… : Natsu?
+Natsu : ……… : ………
+Bora : ようこそ、わが盗賊船へ！ 
+Bora : おとなしくしてもらうよ…お嬢さん 
+Lucy : えっ！　どういう事？ 
+Lucy : あたしをフェアリーテイルに 
+Lucy : 入れてくれるんじゃなかったの！？ 
+Bora : フン！ バカめ！ 
+Bora : あんたも今から商品だ！！ 
+Lucy : これがフェアリーテイルの魔導士なの…？ 
+Lucy : 最低の魔導士じゃない！！ 
+Lucy : なにっ？ 
+Bora : なにもんだぁ！
+*Natsu : ………
+Natsu : ううう…だめだーやっぱ乗り物はむり… 
+Lucy : かっこわるー！ 
+Happy : ねぇねぇ 
+Lucy : げ！　猫がしゃべった！ 
+Happy : 細かい話は後だよ、今は協力して戦って 
+Lucy : わ、わかったわ！ 
+Lucy : ちょっとアンタいくわよ！ 
+Natsu : …ダメ…ぜんぜんむり… 
+Lucy : んもぅ！　何しにきたのよ！ 
+Lucy : そうだ！　外は海だし…ようし！ 
+Lucy : ここは任せて！！
+Lucy : いくわよー！　
+Lucy : 開けっ宝瓶宮の扉！ : I shall open the door!
+Lucy : アクエリアス！ : Aquarius!
+Bora : なに！？ : What?
+Aquarius : オラァァ！ 
+Lucy : どう！　すごいでしょ！ 
+Lucy : これでもあたし星霊魔導士なのよ 
+Aquarius : おい、しばらく呼ぶな : Hey, dont call me for a while
+Aquarius : １週間彼氏と旅行に行く : Got a trip for 1 week
+Aquarius : 彼氏とな : with a guy!
+Lucy : ２回言うな！
+Natsu : よし、揺れが…とまった 
+Bora : …くっ : …Damn
+Natsu : おまえがフェアリーテイルの魔導士か？ : Are you from Fairy Tail?
+Bora : だったらなんだ！ : What if I am?
+Natsu : オレはフェアリーテイルのナツだ！ : I am Natsu of Fairy Tail!
+Natsu : おめェなんか見た事ねェ！
+Lucy : フェアリーテイル！？ : of the Fairy Tail?!?
+Lucy : あんたがフェアリーテイルの魔導士？ 
+Natsu : おめェが悪党だろうが善人だろうが 
+Natsu : 知ったこっちゃねェが 
+Natsu : フェアリーテイルをかたるのは許さねェ 
+Bora : どっからでもかかってきやがれ！　
+Bora : ガキがぁ！ : A Kid!
+Military (軍隊) : この騒ぎはなにごとだー！ : What is this commotion
+Natsu : やべ！！ 逃げんぞ！ : [yabe] I dont run away!
+Lucy : な、なんであたしまで！ 
+Natsu : だってオレ達のギルドに 
+Natsu : 入りてえんだろ？ : Would you like to join?
+Natsu : こいよ！ : Come! 
+Lucy : うん！ : Yes!
+Title card : フェアリーテイル 
+Lucy : わぁ…大っきいね 
+Happy : ようこそフェアリーテイルへ！ : Welcome to the Fairy Tail! 
+Lucy : ギルドに入れてくれるかしら… 
+Lucy : 不安になってきた… 
+Natsu : ただいまー！ 
+Natsu : って、あれ？ : Hey, is that?
+Natsu : 今日は人が少ねェな 
+Mirajane : あら、おかえりなさい : oh, welcome home
+Mirajane : 盗賊団の事件解決おつかれさま : Good work stopping those bandits
+Natsu : 人が全然いねェけど
+Natsu : なんかあったのか？ 
+Mirajane : あなた達がクエストに行ったあとに 
+Mirajane : 大型モンスターの討伐依頼がたくさんきたの 
+Mirajane : それにみんな行っちゃったわ
+Mirajane : そんな事より 
+Mirajane : 港を半壊させたとかで 
+Mirajane : マスターがカンカンよ 
+Makarov : まったく貴様らは… 
+Makarov : 行く先々で問題をおこしおって！ 
+Makarov : ワシは評議員に怒られてばかりじゃぞ！ 
+*Natsu : ………
+Lucy : （この人がマスター…） 
+Makarov : だが… 
+Makarov : 評議員などクソくらえじゃ！ 
+Lucy : え？ 
+Makarov : 上からの目ン玉気にしてたら魔道は進めん 
+Makarov : 評議員のバカ共を恐れるな！ 
+Makarov : 自分の信じた道を進め！ 
+Makarov : それがフェアリーテイルの魔導士じゃ！ 
+Natsu : はっはっはっは！ 
+Natsu : さすがじっちゃんだ！ 
+Makarov : うむ…ところで、そちらのお嬢さんは 
+Makarov : どちら様かの？ 
+Lucy : あ、あの！　あたし星霊魔導士の 
+Lucy : ルーシィです！ 
+Natsu : 盗賊団につかまってたから助けたんだ 
+Nappy : フェアリーテイルに入りたいんだってー 
+Makarov : ふぅ～む… 
+Lucy : だ、ダメですか…？ 
+Makarov : いいよ～、よろしくネ！ 
+Lucy : ありがとうございます！！ 
+Lucy : って軽！！ 
+Pop up : ルーシィが 
+Pop up : 使用可能になりました 
+Lucy : フェアリーテイルに入れてもらえたし 
+Lucy : いい部屋もみつかったし 
+Lucy : 今日はゆっくり休んで 
+Lucy : 明日からがんばらなくっちゃ！ 
+Natsu : よっ！　お帰り！！ 
+Happy : おかえり～ 
+Lucy : なんであんた達がいるのよ！！ 
+Natsu : 細かい事気にすんなって 
+Lucy : 気にするわ！！ 
+Natsu : それにしてもいい部屋だな 
+Natsu : 時々使わせてもらうぜ 
+Lucy : 私のプライバシーは
+Lucy : どうなるのよ！！ 
+Natsu : いいじゃねェか 
+Natsu : オレ達は仲間なんだしよ 
+Lucy : 親しき仲にも礼儀あり！！　って 
+Lucy : 言葉知らないの？ 
+Lucy : もう帰ってよーーーーっ！！ 
+Natsu : あんなに怒る事ねぇーよな？ 
+Happy : ルーシィは怒りっぽいね 
+まっ、いいや 
+また遊びに行こうぜ 
+ルーシィの部屋が 
+新しいクエストが 
+追加されました 
+戦闘に入るまえに 
+攻撃方法を説明するね 
+おう！　
+頼むぜ 
+Happy : □ボタンを押すと 
+通常攻撃ができるよ 
+さらに通常攻撃中に□ボタンを押すと 
+追加で攻撃ができるんだ 
+Happy : それと△ボタンでは 
+Happy : 打ち上げ攻撃ができるよ 
+Happy : 当てて浮き上がった相手には 
+Happy : 連続攻撃を狙ってみてよ 
+Happy : 最後に○ボタンで 
+Happy : 魔法攻撃ができるんだけど 
+Happy : 魔法攻撃は魔力を消費するから 
+Happy : 気を付けてね 
+Natsu : おう！ 
+Happy : あと、攻撃を当てたりすると 
+Happy : ボルテージゲージが上がるんだけど 
+Happy : ゲージがいっぱいまで溜まってる時に 
+Happy : △とＬボタンを同時押しすると 
+Happy : 覚醒状態になって 
+Happy : 一定時間パラメーターが上がるんだ 
+Natsu : そうなのか！ 
+Happy : それにね、○と△ボタンを同時押しすると 
+Happy : ユニゾンレイドが使えるんだ 
+Natsu : なんだそれ？ 
+Happy : とっても強力な合体魔法の事で 
+Happy : ユニゾンレイドを使えば 
+Happy : 敵に大ダメージを与える事ができるよ！！ 
+Happy : それじゃ～ナツ！ 
+Happy : あんなヤツら 
+Happy : とっとと倒しちゃおうよ！ 
+さて… 
+賊を探せって言われてもよ… 
+どこへ行けばいいんだよ！ 
+女の子が行方不明になる事件で 
+犯人が盗賊なら港が怪しいね 
+なるほどな、よし！　
+そんじゃあ 
+とりあえず港にでも行ってみるか！ 
+港に行く前に 
+入力すると移動ができるんだ 
+それじゃっ！　
+港に行こうか 
+え！？ 
+あんたフェアリーテイルの 
+おい、ドンピシャじゃねーか 
+へへへ！　
+やるでしょ よし！　
+んじゃさっそく取っ捕まえて… 
+ちょっとまって～ 
+盗賊って複数いるんじゃない？ 
+パーティーに乗り込もうよ～ 
+パーティーに参加して、 
+賊を一気に捕まえるってのも悪くねえな… 
+よし、いくぞ！ 
+ようこそ！　
+わが船上パーティーへ 
+うふふふ、このパーティーが終われば 
+あたしもフェアリーテイルに入れるのね～ 
+あぁ、モチロンだとも 
+ちょっと待った！ 
+えっ！？ 
+なんだ？　
+おまえらは！ 
+おまえらなんか招待した覚えはないぞ！ 
+誰かコイツらをつまみだせ！ 
+ふん！　
+てめえの仲間なら広場でゆっくり 
+休んでるぜ！ 
+何者だ！　
+おまえは 
+オレはフェアリーテイルのグレイだ！ 
+にしても、てめえ… 
+どうやってこの船で 
+フェアリーテイルに招待する気だ？　
+あ？ 
+ちょっと！　
+どういうこと？ 
+ボ、ボラさん…　
+変な奴が船に入り込んで… 
+バ、バカ！　
+その名で呼ぶな！！ 
+プロミネンスのボラ… 
+数年前にタイタンノーズっていう 
+魔導士ギルドを追放されたヤツだね 
+ふん！　
+ザコだな！ 
+なんだと！　
+私の力見せてくれるわ！ 
+ほう、そいつは楽しみだ 
+ねぇねぇ… ！？　
+猫がしゃべった！ 
+今のうちだよ、さ、逃げよう 
+いやよ！　
+この乙女の純真な心を 
+もてあそぶなんて絶対許さないんだから！ 
+おとめのじゅんしんなこころ？ 
+そこに食い付かないっ！ 
+何！？ 
+おい、誰が乙女なんだ 
+だから食い付くな！ 
+調子に乗って、のこのこ 
+男について行く様だから 
+彼氏ができないんだ 余計なお世話よ！！ 
+くっ… 
+あと少しというところで… 
+さぁ、とっととケリをつけようじゃねぇか 
+ふん！　
+舐めるなよガキが！！ 
+これで一件落着だね 
+こらー！　なんの騒ぎだ！！ げ、やり過ぎたか 
+ハッピー引き上げるぞ 
+ちょっと！　
+あたしも連れてってよ！？ 
+あっ、さっきの女の子だ 
+このままじゃ、 
+あたしが犯人になっちゃうじゃない！ 
+え、でも港をこわしたのはさっきの星霊… 
+黙りなさい、そこの猫！！ 
+はぁ？　
+面倒な女だな 
+そういえば、フェアリーテイルに 入りたいって言ってたし、いいんじゃない？ 
+ったく勝手にしろ やったー！　
+あたしルーシィ 
+オイラはハッピーで、こっちがグレイ 
+いたぞ！ 
+やばい！　
+行くぞ！ 
+うん あぁ、つかれたぜ 
+今日は人が少ねぇな 
+人が全然いねぇけど 
+なにかあったのか？ 
+さすがじーさんだ！ 
+盗賊団につかまりそうなところを 
+助けてやったんだ 
+これで家賃７万は安いな 
+何か問題でもあるのか？ 
+あるわよ！！ 
+これからは同じギルドの仲間なんだ 
+仲良くやろうぜ 
+気にすんなって 
+あんなに怒る事ねーのにな？ 
+まっ、また使わせてもらおうぜ おっと！　
+なんだおまえら 
+ここから先は関係者以外立ち入り禁止だぜ 
+うわ…みつかっちゃったね 
+ほら、さっさと行かねェと 
+痛い目みるぜ 
+あん？　
+誰に言ってんだ？ 
+やれるもんならやってみやがれ！ 
+なんだそりゃ？ 
+それじゃ～グレイ！
