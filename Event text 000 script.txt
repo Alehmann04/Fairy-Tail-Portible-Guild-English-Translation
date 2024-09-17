@@ -1,102 +1,102 @@
 // Translation Format :
 [Speaker] : [Japanese text] : [English translation] : [Actual Implementation]
-Natsu : うぇっぷ…やっとついたか… : Ughh... I finally got up...
-Happy : ナツは乗り物、弱いねー : Natsu is motion-sick
-Happy : まあ、今回はオイラがサポートするか : We all have some weaknesses!
-Happy : がんばってねー : Its ok.
-Natsu : あぁ…うっぷ よろしくたのむ… : ughh...I feel sick... 
+Natsu : うぇっぷ…やっとついたか… : Ughh... I finally got up... : Ughh... I finally got up...
+Happy : ナツは乗り物、弱いねー : Natsu is vehicle-weak : Natsu is motion-sick
+Happy : まあ、今回はオイラがサポートするか : We all have some weaknesses! : We all have some weaknesses!
+Happy : がんばってねー : Its ok. : It's ok.
+Natsu : あぁ…うっぷ よろしくたのむ… : ughh...I feel sick... : Ughh... I feel sick... 
 Happy : あい！ : Aye! : Aye! 
-Happy : それじゃ～さっそく : Ok now,
-Happy : 移動の方法を教えてあげるよ : I'll teach you how to move
-Happy : アナログパッドを進みたい方向に : Use the analog stick to
-Happy : 入力したら移動する事ができるんだ : move in that direction
-Happy : あと、×ボタンでジャンプ : Then, X is the jump
-Happy : アナログパッド入力中に : during analog input
-Happy : Ｒボタンで前転ができるから上手く使ってね : you can use R to roll 
-Happy : それじゃっ！ : got it?
-Happy : 街を調べてみようか : lets search the town
-Lucy : え！？ あんたフェアリーテイルの : Eh!? Your are a mage from
-Lucy : 魔導士なの？: Fairy Tail?
-Bora : ああ、フェアリーテイルのサラマンダーって : Well, I'm the Salamander
-Bora : 聞いたことない？: ever heard me?
-Bora : ふふ…君  : Hehe..
-Bora : フェアリーテイルに入りたいんだって？ : Do you wanna join our guild?
-Bora : ボクの船上パーティーにきてくれたら : If you come to the party
-Bora : マスターに話を通してあげるよ : I'll talk to the master
-Lucy : はぁん、ステキなパーティーになりそうね : Haha, you bet I will!
-Bora : わ、わかりやすい性格してるね…君  : heh, a plain personality..
-Happy : ナツ… : Natsu?
-Natsu : ……… : ………
-Bora : ようこそ、わが盗賊船へ！ 
-Bora : おとなしくしてもらうよ…お嬢さん 
-Lucy : えっ！　どういう事？ 
-Lucy : あたしをフェアリーテイルに 
-Lucy : 入れてくれるんじゃなかったの！？ 
-Bora : フン！ バカめ！ 
-Bora : あんたも今から商品だ！！ 
-Lucy : これがフェアリーテイルの魔導士なの…？ 
-Lucy : 最低の魔導士じゃない！！ 
-Lucy : なにっ？ 
-Bora : なにもんだぁ！
-*Natsu : ………
-Natsu : ううう…だめだーやっぱ乗り物はむり… 
-Lucy : かっこわるー！ 
-Happy : ねぇねぇ 
-Lucy : げ！　猫がしゃべった！ 
-Happy : 細かい話は後だよ、今は協力して戦って 
-Lucy : わ、わかったわ！ 
-Lucy : ちょっとアンタいくわよ！ 
-Natsu : …ダメ…ぜんぜんむり… 
-Lucy : んもぅ！　何しにきたのよ！ 
-Lucy : そうだ！　外は海だし…ようし！ 
-Lucy : ここは任せて！！
-Lucy : いくわよー！　
-Lucy : 開けっ宝瓶宮の扉！ : I shall open the door!
-Lucy : アクエリアス！ : Aquarius!
-Bora : なに！？ : What?
-Aquarius : オラァァ！ 
-Lucy : どう！　すごいでしょ！ 
-Lucy : これでもあたし星霊魔導士なのよ 
+Happy : それじゃ～さっそく : Ok now, : Lets go!
+Happy : 移動の方法を教えてあげるよ : I'll teach you how to move : I'll teach you how to move
+Happy : アナログパッドを進みたい方向に : Use the analog stick to : Use the analog stick to
+Happy : 入力したら移動する事ができるんだ : move in that direction : move in that direction
+Happy : あと、×ボタンでジャンプ : Then, X is the jump : Then, X is the jump
+Happy : アナログパッド入力中に : during analog input : during analog input
+Happy : Ｒボタンで前転ができるから上手く使ってね : you can use R to roll : you can use R to roll 
+Happy : それじゃっ！ : got it? : got it?
+Happy : 街を調べてみようか : lets search the town : lets search the town
+Lucy : え！？ あんたフェアリーテイルの : Eh!? Your are a mage from : Wait? You're are a mage from
+Lucy : 魔導士なの？: Fairy Tail? : Fairy Tail?
+Bora : ああ、フェアリーテイルのサラマンダーって : Yes, I'm called Salamander. : Yes, I'm called Salamander.
+Bora : 聞いたことない？: Ever heard me?
+Bora : ふふ…君  : Hehe… : Ever heard me?
+Bora : フェアリーテイルに入りたいんだって？ : Do you wanna join our guild? : Do you wanna join our guild?
+Bora : ボクの船上パーティーにきてくれたら : If you come to the party : If you come to the party,
+Bora : マスターに話を通してあげるよ : I'll talk to the master : I'll talk to the master.
+Lucy : はぁん、ステキなパーティーになりそうね : Haha, you bet I will! : Haha, you bet I will!
+Bora : わ、わかりやすい性格してるね…君  : heh, a plain personality.. : Heh, a plain personality…
+Happy : ナツ… : Natsu… : Natsu?
+Natsu : ……… : ……… : ………
+Bora : ようこそ、わが盗賊船へ！ : Welcome to my pirate ship! : Welcome to my slaver party! 
+Bora : おとなしくしてもらうよ…お嬢さん : I'll ask you to be quiet...girl : Stay quiet…little girl
+Lucy : えっ！　どういう事？ : Huh! What do you mean? : What's happening?
+Lucy : あたしをフェアリーテイルに : Put me in Fairy Tail : Weren't you going 
+Lucy : 入れてくれるんじゃなかったの！？ : Weren't you going to let me in!? :  to let me join Fairy Tail?
+Bora : フン！ バカめ！ : Hmph! Fool! : Hmph! Fool! 
+Bora : あんたも今から商品だ！！ : You are now a product too!! : You are product now!
+Lucy : これがフェアリーテイルの魔導士なの…？ : Is this a Fairy Tail mage...? : You're not even a Fairy Tail Wizard?
+Lucy : 最低の魔導士じゃない！！ : I'm not the worst wizard!! : You are the worst!
+Lucy : なにっ？ : What? : What?
+Bora : なにもんだぁ！ : What is it? : What is it?
+*Natsu : ……… : ………
+Natsu : ううう…だめだーやっぱ乗り物はむり… : Ugh… No good, I guess I can't ride a vehicle… : Ugh… I can't ride vehicles…
+Lucy : かっこわるー！ : So uncool! : So uncool!
+Happy : ねぇねぇ : Hey Hey : Hey Hey
+Lucy : げ！　猫がしゃべった！ : Wow! The cat spoke! : Wow! The cat spoke!
+Happy : 細かい話は後だよ、今は協力して戦って : We'll discuss the details later, for now let's fight together : Forget that, let's fight!
+Lucy : わ、わかったわ！ : O-okay! : O-okay!
+Lucy : ちょっとアンタいくわよ！ : I'll go with you for a while! : Just for a while. 
+Natsu : …ダメ…ぜんぜんむり… : …No…it's impossible… :…No…it's impossible…
+Lucy : んもぅ！　何しにきたのよ！ : Ugh! What did you come here for? : Why did you come!
+Lucy : そうだ！　外は海だし…ようし！ : That's right! It's the ocean outside... All right! : If we're in the ocean than…
+Lucy : ここは任せて！！ : Leave this to me!! : Leave this to me!!
+Lucy : いくわよー！　: Let's go! : Let's go!
+Lucy : 開けっ宝瓶宮の扉！ : I shall open the door! : I open the door to…
+Lucy : アクエリアス！ : Aquarius! : Aquarius!
+Bora : なに！？ : What? : What?
+Aquarius : オラァァ！ : HAAAAA! (rage/effort sound) : HAAAAA!
+Lucy : どう！　すごいでしょ！ How about that? Isn't it amazing? : Amazing wasn't it?
+Lucy : これでもあたし星霊魔導士なのよ : I'm still a Celestial Spirit Mage. : I'm a Celestial Spirit Mage.
 Aquarius : おい、しばらく呼ぶな : Hey, dont call me for a while
 Aquarius : １週間彼氏と旅行に行く : Got a trip for 1 week
 Aquarius : 彼氏とな : with a guy!
-Lucy : ２回言うな！
-Natsu : よし、揺れが…とまった 
+Lucy : ２回言うな！ : Don't say it twice! : Shut up!
+Natsu : よし、揺れが…とまった : Okay, the shaking...stopped. : The shaking stopped.
 Bora : …くっ : …Damn
 Natsu : おまえがフェアリーテイルの魔導士か？ : Are you from Fairy Tail?
 Bora : だったらなんだ！ : What if I am?
 Natsu : オレはフェアリーテイルのナツだ！ : I am Natsu of Fairy Tail!
-Natsu : おめェなんか見た事ねェ！
-Lucy : フェアリーテイル！？ : of the Fairy Tail?!?
-Lucy : あんたがフェアリーテイルの魔導士？ 
-Natsu : おめェが悪党だろうが善人だろうが 
-Natsu : 知ったこっちゃねェが 
-Natsu : フェアリーテイルをかたるのは許さねェ 
-Bora : どっからでもかかってきやがれ！　
-Bora : ガキがぁ！ : A Kid!
-Military (軍隊) : この騒ぎはなにごとだー！ : What is this commotion
-Natsu : やべ！！ 逃げんぞ！ : [yabe] I dont run away!
-Lucy : な、なんであたしまで！ 
-Natsu : だってオレ達のギルドに 
-Natsu : 入りてえんだろ？ : Would you like to join?
-Natsu : こいよ！ : Come! 
-Lucy : うん！ : Yes!
-Title card : フェアリーテイル 
-Lucy : わぁ…大っきいね 
-Happy : ようこそフェアリーテイルへ！ : Welcome to the Fairy Tail! 
-Lucy : ギルドに入れてくれるかしら… 
-Lucy : 不安になってきた… 
-Natsu : ただいまー！ 
-Natsu : って、あれ？ : Hey, is that?
-Natsu : 今日は人が少ねェな 
-Mirajane : あら、おかえりなさい : oh, welcome home
-Mirajane : 盗賊団の事件解決おつかれさま : Good work stopping those bandits
-Natsu : 人が全然いねェけど
-Natsu : なんかあったのか？ 
-Mirajane : あなた達がクエストに行ったあとに 
-Mirajane : 大型モンスターの討伐依頼がたくさんきたの 
-Mirajane : それにみんな行っちゃったわ
-Mirajane : そんな事より 
+Natsu : おめェなんか見た事ねェ！ : I've never seen you before! : I've never seen you before!
+Lucy : フェアリーテイル！？ : of the Fairy Tail?!? : From Fairy Tail?!?
+Lucy : あんたがフェアリーテイルの魔導士？ : you are a Fairy Tail wizard?
+Natsu : おめェが悪党だろうが善人だろうが : I don't care if you're a villain or a good person : If you are good or bad…
+Natsu : 知ったこっちゃねェが : Who cares? : I don't care!
+Natsu : フェアリーテイルをかたるのは許さねェ : I won't allow you to pretend to be Fairy Tail. : I won't allow you to pretend to be Fairy Tail.
+Bora : どっからでもかかってきやがれ！　: Bring it on from anywhere! : Bring it on then!
+Bora : ガキがぁ！ : A Kid! : Brat!
+Military (軍隊) : この騒ぎはなにごとだー！ : What is this commotion : What's this about?!
+Natsu : やべ！！ 逃げんぞ！ : [yabe] I dont run away! : Shit!! Let's go!
+Lucy : な、なんであたしまで！ : Why me? : Why me!?
+Natsu : だってオレ達のギルドに : Because in our guild : Because you said, 
+Natsu : 入りてえんだろ？ : Would you like to join? : you wanted to join! 
+Natsu : こいよ！ : Come! : Come! 
+Lucy : うん！ : Yes! : Ok!
+Title card : フェアリーテイル : Fairy Tail : Fairy Tail
+Lucy : わぁ…大っきいね : Wow…it's big. : Wow…it's big.
+Happy : ようこそフェアリーテイルへ！ : Welcome to the Fairy Tail! : Welcome to Fairy Tail! 
+Lucy : ギルドに入れてくれるかしら… : Will you let me join the guild? : Will they let me join?
+Lucy : 不安になってきた… : I'm getting anxious… : I'm getting nervous…
+Natsu : ただいまー！ : I'm back! : I'm back!
+Natsu : って、あれ？ : Hey, is that? : Hey, why…
+Natsu : 今日は人が少ねェな : There are not many people today : are not many people today 
+Mirajane : あら、おかえりなさい : oh, welcome home : Oh, welcome back.
+Mirajane : 盗賊団の事件解決おつかれさま : Good work stopping those bandits : Good job stopping those bandits.
+Natsu : 人が全然いねェけど : There's no one here at all. : There's no one here at all.
+Natsu : なんかあったのか？ : Did something happen? : Did something happen?
+Mirajane : あなた達がクエストに行ったあとに : After you go on a quest : After you left on a quest.
+Mirajane : 大型モンスターの討伐依頼がたくさんきたの : I've received a lot of requests to exterminate large monsters. : There were lots of extermination requests.
+Mirajane : それにみんな行っちゃったわ : And everyone went : so everyone went.
+Mirajane : そんな事より : More importantly, : More importantly,
 Mirajane : 港を半壊させたとかで 
 Mirajane : マスターがカンカンよ 
 Makarov : まったく貴様らは… 
@@ -146,11 +146,12 @@ Lucy : 言葉知らないの？
 Lucy : もう帰ってよーーーーっ！！ 
 Natsu : あんなに怒る事ねぇーよな？ 
 Happy : ルーシィは怒りっぽいね 
-まっ、いいや 
-また遊びに行こうぜ 
+Natsu : まっ、いいや 
+Natsu : また遊びに行こうぜ 
+*Happy : あい！
 ルーシィの部屋が 
-新しいクエストが 
-追加されました 
+Pop up : 新しいクエストが 
+Pop up : 追加されました 
 戦闘に入るまえに 
 攻撃方法を説明するね 
 おう！　
