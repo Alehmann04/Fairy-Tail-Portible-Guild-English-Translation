@@ -3,8 +3,6 @@ Fairy Tail Portable Guild - English Translaton patch
 
 To Start with let my make it clear I have no idea what I'm doing.
 
-
-
 Discoveries
 -----------
 
@@ -48,6 +46,8 @@ Todo
 ----
 * finish the eventtext000.bin translation
 * translate the item based on other repository
+* translate the skills
+* translate the materials
 * translate the rest of the text
 
 Credit
