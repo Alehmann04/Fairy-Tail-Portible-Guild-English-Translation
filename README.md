@@ -1,7 +1,7 @@
 Fairy Tail Portable Guild - English Translaton patch
 ====================================================
 
-To Start with let my make it clear i have no idea what I'm doing.
+To Start with let my make it clear I have no idea what I'm doing.
 
 
 
@@ -43,3 +43,13 @@ _________________________________________________
 7: use UMDGen to recreate the iso 
 
 8: run the iso
+
+Todo
+----
+* finish the eventtext000.bin translation
+* translate the item based on other repository
+* translate the rest of the text
+
+Credit
+------
+I would like to credit this reposittory with having some of the game's text translated. "https://github.com/Aerow/Fairy-Tail-Translation"
