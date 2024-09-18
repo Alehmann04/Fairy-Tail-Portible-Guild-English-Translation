@@ -35,13 +35,13 @@
 状態異常を回復します : Cure abnormal status : Restores abnormal status
 リターンパウダー : Recall : Return Powder
 ベースキャンプに一瞬で戻ります : Return to base : Return immediately to the base camp
-エキサイトビット : Tonic
+エキサイトビット : Tonic : Tonic
 ボルテージゲージを小回復します : Increases Voltage slightly : Voltage gauge is recovered(small)
-剛腕ラクリマ : Strength Up
+剛腕ラクリマ : Strength Up : Strength Up
 一定時間攻撃を強化します : Atk Pwr temp. increased : The attack is strengthened during the fixed time.
-剛腕ディアマ : Strength Up+
+剛腕ディアマ : Strength Up+ : Strength Up+
 一定時間攻撃を大きく強化します : Atk Pwr temp. increased a lot : The attack is greatly strengthened during the fixed time.
-硬身ラクリマ : Defense Up
+硬身ラクリマ : Defense Up : Defense Up
 一定時間防御を強化します : Def temp. increased : The defense is strengthened during the fixed time.
-硬身ディアマ : Defense Up+
+硬身ディアマ : Defense Up+ : Defense Up+
 一定時間防御を大きく強化します : Def temp. increased a lot : The defense is greatly strengthened during the fixed time.

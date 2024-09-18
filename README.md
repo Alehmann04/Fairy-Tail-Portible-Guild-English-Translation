@@ -129,7 +129,7 @@ ______________________________
     * □ Powerupitem
     * □ Quest
     * □ QuestAssist
-    * ▼ skill
+    * ★ skill
     * ★ items
     * ▼ material
 	

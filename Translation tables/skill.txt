@@ -27,10 +27,10 @@
 属性耐性（土） : Levitate : Attribute tolerance (earth)
 属性耐性（氷） : HotBody : Attribute resistance (ice)
 属性耐性（雷） : Grounded : Attribute resistance (lightning)
-のけぞり
-打ち上げ
-吹き飛ばし
-崩れ落ち力
+のけぞり : Withdraw : Leaning back
+打ち上げ : Launch : launch
+吹き飛ばし : Repel : Blow Away
+崩れ落ち力 : Collapse : Collapse force
 特殊攻撃発生率 : +Crit : Special attack rate of occurrence
 取得経験値 : +EXP : Get experience points
 報酬額 : +Loot : Amount of reward
