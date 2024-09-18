@@ -2,6 +2,8 @@ Fairy Tail Portable Guild - English Translaton patch
 ====================================================
 
 To Start with let my make it clear I have no idea what I'm doing.
+Also I would like to point out that this project will require the translation of over 150 diffrent files so don't expect this to be quick.
+I would like some help if you are willing reach out to me at Alehmann04@post.com 
 
 Discoveries
 -----------
@@ -53,6 +55,9 @@ In Progress
 Todo
 ----
 * finish the eventtext000.bin translation
+* Add the untranslated text to each of the translation tables
+* Directly translate the text in the translation tables
+* 
 * translate the skills
 * translate the rest of the text
 
