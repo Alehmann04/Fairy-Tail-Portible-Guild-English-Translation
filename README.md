@@ -42,14 +42,20 @@ _________________________________________________
 
 8: run the iso
 
+Done
+----
+* translate the item based on other repository
+
+In Progress
+-----------
+* translate the materials
+
 Todo
 ----
 * finish the eventtext000.bin translation
-* translate the item based on other repository
 * translate the skills
-* translate the materials
 * translate the rest of the text
 
 Credit
 ------
-I would like to credit this reposittory with having some of the game's text translated. "https://github.com/Aerow/Fairy-Tail-Translation"
+I would like to credit this repository with having some of the game's text translated. "https://github.com/Aerow/Fairy-Tail-Translation"
