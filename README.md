@@ -47,78 +47,116 @@ _________________________________________________
 Done
 ----
 * translate the item based on other repository
-* Untranslated text added to translation tables for skills, materials, and items
+* Untranslated text added to the translation tables for: 
+  * skills
+  * materials
+  * items
 
 In Progress
 -----------
 * translate the materials
-* Untranslated text added to translation tables for eventtext000-010
-
+* Adding Untranslated text to the translation tables for eventtext000-010
+  * Untranslated text added to the translation tables for:
+    * eventtext000
+	* eventtext001
+	* eventtext002
+	* eventtext003
+	
 Todo
 ----
 * finish the eventtext000.bin translation
-* Add the untranslated text to each of the translation tables
-  * untranslated text added to translation tables for eventtext011-020
-  * untranslated text added to translation tables for eventtext021-030
-  * untranslated text added to translation tables for eventtext031-040
-  * untranslated text added to translation tables for eventtext041-050
-  * untranslated text added to translation tables for eventtext051-060
-  * untranslated text added to translation tables for eventtext061-070
-  * untranslated text added to translation tables for eventtext071-080
-  * untranslated text added to translation tables for eventtext081-090
-  * untranslated text added to translation tables for eventtext091-100
-  * untranslated text added to translation tables for eventtext101-110
-  * untranslated text added to translation tables for eventtext111-120
-  * untranslated text added to translation tables for eventtext121-130
-  * untranslated text added to translation tables for eventtext131-140
-  * untranslated text added to translation tables for eventtext141-150
-* For relevant files add the speaker to the translation table
-  * add the speaker to translation tables for eventtext011-020
-  * add the speaker to translation tables for eventtext021-030
-  * add the speaker to translation tables for eventtext031-040
-  * add the speaker to translation tables for eventtext041-050
-  * add the speaker to translation tables for eventtext051-060
-  * add the speaker to translation tables for eventtext061-070
-  * add the speaker to translation tables for eventtext071-080
-  * add the speaker to translation tables for eventtext081-090
-  * add the speaker to translation tables for eventtext091-100
-  * add the speaker to translation tables for eventtext101-110
-  * add the speaker to translation tables for eventtext111-120
-  * add the speaker to translation tables for eventtext121-130
-  * add the speaker to translation tables for eventtext131-140
-  * add the speaker to translation tables for eventtext141-150
-* for relevent files translate names
-  * translated names added to translation tables for eventtext011-020
-  * translated names added to translation tables for eventtext021-030
-  * translated names added to translation tables for eventtext031-040
-  * translated names added to translation tables for eventtext041-050
-  * translated names added to translation tables for eventtext051-060
-  * translated names added to translation tables for eventtext061-070
-  * translated names added to translation tables for eventtext071-080
-  * translated names added to translation tables for eventtext081-090
-  * translated names added to translation tables for eventtext091-100
-  * translated names added to translation tables for eventtext101-110
-  * translated names added to translation tables for eventtext111-120
-  * translated names added to translation tables for eventtext121-130
-  * translated names added to translation tables for eventtext131-140
-  * translated names added to translation tables for eventtext141-150
-* Directly translate the text in the translation tables
-  * Directly translated text added to translation tables for eventtext011-020
-  * translated names added to translation tables for eventtext021-030
-  * translated names added to translation tables for eventtext031-040
-  * translated names added to translation tables for eventtext041-050
-  * translated names added to translation tables for eventtext051-060
-  * translated names added to translation tables for eventtext061-070
-  * translated names added to translation tables for eventtext071-080
-  * translated names added to translation tables for eventtext081-090
-  * translated names added to translation tables for eventtext091-100
-  * translated names added to translation tables for eventtext101-110
-  * translated names added to translation tables for eventtext111-120
-  * translated names added to translation tables for eventtext121-130
-  * translated names added to translation tables for eventtext131-140
-  * translated names added to translation tables for eventtext141-150
-* translate the skills
-* translate the rest of the text
+* complete translation tables
+  * Add the untranslated text to each of the translation tables
+    * Add untranslated text to the translation table for eventtext
+    * Add untranslated text to the translation tables for eventtext011-020
+    * Add untranslated text to the translation tables for eventtext021-030
+    * Add untranslated text to the translation tables for eventtext031-040
+    * Add untranslated text to the translation tables for eventtext041-050
+    * Add untranslated text to the translation tables for eventtext051-060
+    * Add untranslated text to the translation tables for eventtext061-070
+    * Add untranslated text to the translation tables for eventtext071-080
+    * Add untranslated text to the translation tables for eventtext081-090
+    * Add untranslated text to the translation tables for eventtext091-100
+    * Add untranslated text to the translation tables for eventtext101-110
+    * Add untranslated text to the translation tables for eventtext111-120
+    * Add untranslated text to the translation tables for eventtext121-130
+    * Add untranslated text to the translation tables for eventtext131-140
+    * Add untranslated text to the translation tables for eventtext141-150
+    * Add untranslated text to the translation table for GuildEvent
+    * Add untranslated text to the translation table for GuildEventText
+    * Add untranslated text to the translation table for GuildEventFirst
+    * Add untranslated text to the translation table for GuildEventFirstText
+    * Add untranslated text to the translation table for Powerupitem
+    * Add untranslated text to the translation table for Quest
+    * Add untranslated text to the translation table for QuestAssist
+  
+  * Add the speakers to the translation tables for:
+    * Add the speakers to the translation table for eventtext
+	* Add the speakers to the translation tables for eventtext000-010
+    * Add the speakers to the translation tables for eventtext011-020
+    * Add the speakers to the translation tables for eventtext021-030
+    * Add the speakers to the translation tables for eventtext031-040
+    * Add the speakers to the translation tables for eventtext041-050
+    * Add the speakers to the translation tables for eventtext051-060
+    * Add the speakers to the translation tables for eventtext061-070
+    * Add the speakers to the translation tables for eventtext071-080
+    * Add the speakers to the translation tables for eventtext081-090
+    * Add the speakers to the translation tables for eventtext091-100
+    * Add the speakers to the translation tables for eventtext101-110
+    * Add the speakers to the translation tables for eventtext111-120
+    * Add the speakers to the translation tables for eventtext121-130
+    * Add the speakers to the translation tables for eventtext131-140
+    * Add the speakers to the translation tables for eventtext141-150
+    * Add the speakers to the translation table for GuildEvent
+    * Add the speakers to the translation table for GuildEventText
+    * Add the speakers to the translation table for GuildEventFirst
+    * Add the speakers to the translation table for GuildEventFirstText
+    * Add the speakers to the translation table for Quest
+    * Add the speakers to the translation table for QuestAssist
+  
+  * Directly translate the text in the translation tables
+    * Directly translated text added to translation tables for eventtext011-020
+    * Directly translated text added to translation tables for eventtext021-030
+    * Directly translated text added to translation tables for eventtext031-040
+    * Directly translated text added to translation tables for eventtext041-050
+    * Directly translated text added to translation tables for eventtext051-060
+    * Directly translated text added to translation tables for eventtext061-070
+    * Directly translated text added to translation tables for eventtext071-080
+    * Directly translated text added to translation tables for eventtext081-090
+    * Directly translated text added to translation tables for eventtext091-100
+    * Directly translated text added to translation tables for eventtext101-110
+    * Directly translated text added to translation tables for eventtext111-120
+    * Directly translated text added to translation tables for eventtext121-130
+    * Directly translated text added to translation tables for eventtext131-140
+    * Directly translated text added to translation tables for eventtext141-150
+    * Directly translate the skills
+
+** Complete the translation of the Hex files
+  * Add translated names to the bin files for:
+    * Add translated names to the bin file for eventtext
+	* Add translated names to the bin files for eventtext000-010
+    * Add translated names to the bin files for eventtext011-020
+    * Add translated names to the bin files for eventtext021-030
+    * Add translated names to the bin files for eventtext031-040
+    * Add translated names to the bin files for eventtext041-050
+    * Add translated names to the bin files for eventtext051-060
+    * Add translated names to the bin files for eventtext061-070
+    * Add translated names to the bin files for eventtext071-080
+    * Add translated names to the bin files for eventtext081-090
+    * Add translated names to the bin files for eventtext091-100
+    * Add translated names to the bin files for eventtext101-110
+    * Add translated names to the bin files for eventtext111-120
+    * Add translated names to the bin files for eventtext121-130
+    * Add translated names to the bin files for eventtext131-140
+    * Add translated names to the bin files for eventtext141-150
+    * Add translated names to the bin file for GuildEvent
+    * Add translated names to the bin file for GuildEventText
+    * Add translated names to the bin file for GuildEventFirst
+    * Add translated names to the bin file for GuildEventFirstText
+    * Add translated names to the bin file for Quest
+    * Add translated names to the bin file for QuestAssist
+
+Add implementable translations to the translation tables
 
 Credit
 ------
