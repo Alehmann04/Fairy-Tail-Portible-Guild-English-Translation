@@ -56,8 +56,9 @@ Todo
 ----
 * finish the eventtext000.bin translation
 * Add the untranslated text to each of the translation tables
+* For relevant files add the speaker to the translation table
+* for relevent files translate names
 * Directly translate the text in the translation tables
-* 
 * translate the skills
 * translate the rest of the text
 
