@@ -47,6 +47,7 @@ _________________________________________________
 Done
 ----
 ★ Completly translated
+  
   ★ items
 	
 Todo (□ = not done, * = Partal, ★ = done)
@@ -56,7 +57,9 @@ ______________________________
 
   □ Add the untranslated text to each of the translation tables for:
     □ eventtext
+	
 	* eventtext000-010 (000, 001, 002, 003)
+	
     □ eventtext011-020
     □ eventtext021-030
     □ eventtext031-040
