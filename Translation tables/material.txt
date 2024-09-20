@@ -37,536 +37,404 @@
 呪歌を奏でる恐ろしき声帯 : : Terrifying vocal cords that play curse songs 
 呪歌の魂玉 : Song orb : Curse Song Soul Orb
 ララバイの魂が篭った玉 : Lullaby's soul : A ball containing the soul of Lullaby
-幻翼獣の飛膜ô : : Winged Beast's Flying Membrane
+幻翼獣の飛膜 : : Winged Beast's Flying Membrane
 デュプリケーターの翼の膜 : : Duplicator Wing Membrane
-幻翼獣の卵殻ô : : Winged Beast Eggshell
+幻翼獣の卵殻 : : Winged Beast Eggshell
 複製が作られた際に残る卵の殻 : : Eggshells left over from replicas made
-幻翼獣の翼骨ô : : Wingbone of the Phantom Beast
+幻翼獣の翼骨 : : Wingbone of the Phantom Beast
 デュプリケーターの翼骨 : : Duplicator Wingbone
-幻翼獣の涙ô : : Tears of the Phantom Beast
+幻翼獣の涙 : : Tears of the Phantom Beast
 デュプリケーターの邪眼からこぼれた涙 : : Tears from the Duplicator's Evil Eye
-幻翼獣の邪眼¸ : : Evil Eye of the Phantom Beast
+幻翼獣の邪眼 : : Evil Eye of the Phantom Beast
 太古より、多くのモノを複製してきた邪眼 : : The evil eye has been replicating many things since ancient times.
-幻翼獣の魂玉¸ : : Soul Orb of the Mystical Winged Beast
+幻翼獣の魂玉 : : Soul Orb of the Mystical Winged Beast
 デュプリケーターを倒した時に現れた玉 : : The ball that appeared when you defeated the Duplicator
-翔魔の大爪ô : : The Great Claw of the Shoma
+翔魔の大爪 : : The Great Claw of the Shoma
 ワイバーンの大きく鋭い爪 : : Wyvern's large, sharp claws
-翔魔の大牙ô : : The Demon's Fang
+翔魔の大牙 : : The Demon's Fang
 ワイバーンの大きく鋭い牙 : : Wyvern's large, sharp fangs
-紅魔鳥の光爪ô : : Scarlet Demon Bird's Light Claws
+紅魔鳥の光爪 : : Scarlet Demon Bird's Light Claws
 ロックの光り輝く爪 : : Rock Shining Claws
-紅魔鳥の紅羽ô : : Scarlet Demon Bird's Red Wing
+紅魔鳥の紅羽 : : Scarlet Demon Bird's Red Wing
 ロックの紅色をした羽 : : Rock's Crimson Feather
-翔魔の長尾ô : : Nagao of Shoma
+翔魔の長尾 : : Nagao of Shoma
 ワイバーンの丈夫な尻尾 : : Wyvern's Sturdy Tail
-翔魔の背ビレô : : The dorsal fin of the Flying Demon
+翔魔の背ビレ : : The dorsal fin of the Flying Demon
 ワイバーンの背に並ぶ強固な背ビレ : : The strong dorsal fin that lines up on the back of the Wyvern
-翔魔の豪脚ô : : The mighty legs of the Flying Demon
+翔魔の豪脚 : : The mighty legs of the Flying Demon
 あらゆる物を踏みつけるワイバーンの脚 : : The legs of the Wyvern that can trample anything
-翔魔の翼骨¸ : : The wingbone of the Flying Demon 
+翔魔の翼骨 : : The wingbone of the Flying Demon 
 大きく広がるワイバーンの翼の骨 : : The wide, spreading wingbone of the Wyvern
-翔魔のクチバシ¸ : : The beak of the Flying Demon 
+翔魔のクチバシ : : The beak of the Flying Demon 
 ワイバーンの強固なくちばし : : The strong beak of the Wyvern
-紅魔鳥の長尾ô : : The long tail of the Scarlet Demon Bird
+紅魔鳥の長尾 : : The long tail of the Scarlet Demon Bird
 ロックの長い紅色の尻尾 : : The long crimson tail of the Rock
-紅魔鳥の背ビレô : : The dorsal fin of the Scarlet Demon Bird
+紅魔鳥の背ビレ : : The dorsal fin of the Scarlet Demon Bird
 ロックの背に並ぶ美しい背ビレ : : The beautiful dorsal fin that lines up on the back of the Rock
-紅魔鳥の鳥脚ô : : The legs of the Scarlet Demon Bird
+紅魔鳥の鳥脚 : : The legs of the Scarlet Demon Bird
 あらゆる物を鷲掴みにするロックの脚 : : The legs of the Rock that can grab anything
-紅魔鳥の翼骨¸ : : The wingbone of the Scarlet Demon Bird ¸
+紅魔鳥の翼骨 : : The wingbone of the Scarlet Demon Bird 
 大きく広がるロックが持つ翼の骨 : : The wide, spreading wingbone of the Rock
-紅魔鳥のクチバシ¸ : : The beak of the Scarlet Demon Bird ¸
+紅魔鳥のクチバシ : : The beak of the Scarlet Demon Bird 
 ロックが持つ鋭いくちばし : : The sharp beak of the rock
-鳥脚爬の角ô : : The horn of the Ornithoptera
+鳥脚爬の角 : : The horn of the Ornithoptera
 岩にさえ突き刺さるバードフットの角 : : The horn of the Birdfoot that can pierce even rock
-!刃甲爬の刀角ô : : !The sword horn of the blade armor
+!刃甲爬の刀角 : : !The sword horn of the blade armor
 刀のように鋭いソードフットの角 : : The horn of the Swordfoot is as sharp as a sword
-鳥脚爬の斑鱗ô : : The spotted scales of the Ornithoptera
+鳥脚爬の斑鱗 : : The spotted scales of the Ornithoptera
 バードフットが持つ斑状態の鱗 : : The spotted scales of the Birdfoot
-#鳥脚爬のシッポô : : #The tail of the Ornithoptera
+#鳥脚爬のシッポ : : #The tail of the Ornithoptera
 バードフットのしなやかで平たい尻尾 : : The flexible, flat tail of the Birdfoot
-鳥脚爬の尖顎ô : : The pointed jaw of the Ornithoptera
-バードフットの角並みに鋭い顎 : : 
-%鳥脚爬の鱗脚¸ : : 
-バードフットの鱗で覆われた鳥脚 : : 
-鳥脚爬の翠甲¸ : : 
-バードフットの背の翠色をした甲 : : 
-刃甲爬の鋭鱗ô : : 
-ソードフットの刃物のように鋭い鱗 : : 
-(刃甲爬の鋭尾ô : : 
-ソードフットの獲物を斬りつける鋭い尻尾 : : 
-)刃甲爬の斬脚ô : : 
-刃物のようなヒレ付きのソードフットの脚 : : 
-刃甲爬の撞木眼¸ : : 
-ソードフットの左右に突き出した眼 : : 
-刃甲爬の剣山甲¸ : : 
-ソードフットの背の刃が連なる甲 : : 
-,鉱鱗の鉄鉱石ô : : 
-ラクリマジロの体から剥がれ落ちた鉄鉱石 : : 
--紫鉱鱗の鋼鉱石ô : : 
-ラクリマホーンの体から剥がれた鋼鉱石 : : 
-鉱鱗の岩肌ô : : 
-ラクリマジロの岩のようにごつごつした肌 : : 
-鉱鱗の重尾ô : : 
-ラクリマジロのずっしりとした尻尾 : : 
-鉱鱗のカケラô : : 
-ラクリマジロの背にある鉱物のカケラ : : 
-鉱鱗のカタマリ¸ : : 
-ラクリマジロの背にある鉱物のカタマリv
-2鉱鱗晶¸ : : 
-ラクリマジロの背にある巨大な水晶 : : 
-紫鉱鱗の粗岩肌ô : : 
-ラクリマホーンの荒々しい岩肌 : : 
-紫鉱鱗の重尾ô : : 
-ラクリマホーンの重く硬い尻尾 : : 
-紫鉱鱗の破片ô : : 
-ラクリマホーンの背にある紫色の鉱物 : : 
-紫鉱鱗の原石¸ : : 
-ラクリマホーンの背にある紫色の塊 : : 
-7鉱鱗紫晶¸ : : 
-ラクリマホーンの背の紫色をした水晶 : : 
-カボチャ魔の皮ô : : 
-ハロウィンヘッドを覆うゴツゴツとした皮 : : 
-9頭骨魔の骨牙ô : : 
-スカルヘッドの白骨化した牙 : : 
-:カボチャ魔の葉ô : : 
-ハロウィンヘッドから生える大きな葉 : : 
-カボチャ魔の蔓ô : : 
-ハロウィンヘッドが操るしなやかな蔓 : : 
-カボチャ魔の根ô : : 
-魔力を吸収するハロウィンヘッドの根 : : 
-カボチャ魔の種¸ : : 
-新たなハロウィンヘッドが生まれる種 : : 
-カボチャ魔の花¸ : : 
-稀にしか咲かないハロウィンヘッドの花 : : 
-頭骨魔の骨粉ô : : 
-スカルヘッドの骨が粉のように砕けたもの : : 
-頭骨魔の骨片ô : : 
-スカルヘッドの骨のカケラ : : 
-A頭骨魔の触手ô : : 
-移動や攻撃に使われるスカルヘッドの触手 : : 
-頭骨魔のアゴ¸ : : 
-スカルヘッドの顎骨が外れたもの : : 
-頭骨魔の宝骨¸ : : 
-スカルヘッドの頭内に潜む宝石のような骨 : : 
-D大猿の剛毛ô : : 
-極寒の地でも生息できるボスバルカンの毛 : : 
-E大猿の尖耳ô : : 
-ボスバルカンの角のように尖った耳 : : 
-F大猿の皮ô : : 
-雪のように真っ白なボスバルカンの毛皮 : : 
-大猿のアゴヒゲô : : 
-ボスバルカンのアゴから突き出したヒゲ : : 
-大猿のシッポô : : 
-白いボスバルカンの黒い尻尾 : : 
-大猿のトサカô : : 
-ボスバルカンの先の尖った立派なトサカ : : 
-大猿の拳骨¸ : : 
-ボスバルカンの握り締めたままの拳 : : 
-大猿の大胸筋¸ : : 
-ボスバルカンの鍛え上げられた大胸筋 : : 
-L雪猿の皮d白くしなやかなバルカンの皮 : : 
-M雪猿の毛dバルカンの上半身を覆う白い毛 : : 
-N雪猿の尖耳dバルカンが持つ角のように尖った耳 : : 
-雪猿のアゴヒゲdバルカンのアゴから突き出るヒゲ : : 
-雪猿のシッポd白いバルカンの黒い尻尾 : : 
-雪猿のトサカdバルカンの先の尖ったトサカ : : 
-雪猿の拳 : : 
-人間の倍ほどの大きさのバルカンの拳 : : 
-雪猿の胸板 : : 
-バルカンの鍛え上げられた胸板 : : 
-T大ゴブリンの毛d大きいゴブリンのキメが細かく繊細な毛 : : 
-U大ゴブリンの皮d大きいゴブリンの柔軟で丈夫な皮 : : 
-V大ゴブリンの爪d大きいゴブリンの鋭利な爪 : : 
-W大斧の鉄片d大きいゴブリンの持つ斧のカケラ : : 
-大ゴブリンの耳d大きいゴブリンのケモノ耳 : : 
-大ゴブリンの尾骨d大きいゴブリンの柔軟な尾骨 : : 
-超ふかふかシッポdとてもふかふかな大きいゴブリンのシッポ : : 
-マモリギの大葉Ü : : 
-大きいゴブリンが身につける大きな葉っぱ : : 
-大ゴブリンの輝瞳Ü : : 
-大きいゴブリンのキラキラと輝く瞳 : : 
-]ゴブリンの毛dふわふわしたゴブリンの毛 : : 
-^ゴブリンの皮dゴブリンのとても薄い皮　 : : 
-_ゴブニンの毛dマスクゴブリンのやわらかい毛 : : 
-`ゴブニンの皮dマスクゴブリンの破れやすい皮 : : 
-aゴブリンの爪dゴブリンの持つとても小さな爪 : : 
-b野斧の鉄片dゴブリンの持つ斧の欠片 : : 
-c森剣の鉄片dマスクゴブリンが持つ剣の欠片 : : 
-ゴブリンの小耳dゴブリンが持つ小さい耳 : : 
-ゴブリンの小骨dゴブリンが持つ小さい骨  : : 
-ふかふかシッポdゴブリンのふかふかしたシッポ  : : 
-マモリギの葉è  : : 
-ゴブリンが身につける葉っぱ  : : 
-ゴブリンの瞳è  : : 
-ゴブリンが持つ可愛らしい瞳  : : 
-ゴブニンの小耳dマスクゴブリンが持つ小さい耳  : : 
-ゴブニンの小骨dマスクゴブリンが持つ小さい骨  : : 
-もふもふシッポdマスクゴブリンのもふもふしたシッポ  : : 
-マモリギの紅葉è  : : 
-マスクゴブリンが身につける紅い葉っぱ  : : 
-ゴブニンの瞳è  : : 
-マスクゴブリンの潤んだ瞳  : : 
-n大キノコの羽È大きいマッシュウィングの天使のような羽  : : 
-o大キノコの胞子嚢È大きいマッシュウィングの胞子が入った袋  : : 
-p大キノコの細菌糸È大きいマッシュウィングのキメ細かい菌糸  : : 
-大キノコの岩突きÈ大きいマッシュウィングのお尻の部分  : : 
-大キノコの太ジクÜ  : : 
-大きいマッシュウィングの太く丈夫なジク  : : 
-大キノコの大ガサÜ  : : 
-大きいマッシュウィングの大きなカサ  : : 
-t赤キノコの羽dマッシュウィングのフワフワした羽  : : 
-u魔童子の羽dマジックウィングの衣で型取った羽  : : 
-赤キノコの胞子dマッシュウィングから噴出す胞子  : : 
-w赤キノコの菌糸dマッシュウィングの糸のような菌  : : 
-赤キノコの石突きdマッシュウィングの何にでもくっつくお尻  : : 
-赤キノコのジク  : : 
-マッシュウィングの繊維質なジク  : : 
-赤キノコのカサ  : : 
-マッシュウィングのカサの部分  : : 
-魔童子の衣ギレdマジックウィングの衣の切れ端  : : 
-魔童子のチャックdマジックウィングの服の大きなチャック  : : 
-魔童子の細脚dマジックウィングの細すぎる足  : : 
-~魔童子の小帽子  : : 
-マジックウィングの帽子、人間には小さい  : : 
-魔童子の瞳  : : 
-帽子の中で光るマジックウィングの瞳  : : 
-超変色球の触角d属性を帯びた大きな触角  : : 
-＝£超変色球の粘膜Èどんな属性も纏うことが出来る粘膜  : : 
-ａ£超変色ジェルÈ色によって粘度や温度が変化する液体  : : 
-メ£超変色ゼリーÈ色によって味や属性が変化するゼリー  : : 
-п£超変色グミÜ  : : 
-色によって味や属性が変化するグミ  : : 
-超変色球の核Ü  : : 
-色によって本体の属性が変化する巨大核  : : 
-変色球の触角d属性を帯び、属性によって伸縮する触角  : : 
-〟£変色球の薄膜dさまざまな属性を纏うことが出来る薄い膜  : : 
-変色ジェルd色によって粘度や温度が変化する液体  : : 
-堰£変色ゼリーd色によって味や属性が変化するゼリー  : : 
-梶£変色グミ  : : 
-色によって味や属性が変化するグミ  : : 
-虚Ï色球の核  : : 
-色によって本体の属性が変化する核  : : 
-潔¹ザメの鋼盾鱗È鋼のような大きなフライングシャークの鱗  : : 
-拷¹ザメの飛膜È大きなフライングシャークの丈夫な飛膜  : : 
-氏£怪鳥ザメの鑢肌Èヤスリ状の大きなフライングシャークの肌  : : 
-潤£怪鳥ザメの鋭魚眼È大きなフライングシャークの鋭く尖った目  : : 
-吹£怪鳥ザメの堅脚È大きなフライングシャークの堅い脚  : : 
-早£怪鳥ザメの大翼骨Ü  : : 
-大きなフライングシャークの大きな翼の骨  : : 
-忠¹ザメの鋭牙Ü  : : 
-大きなフライングシャークの鋭い牙  : : 
-湯¹ザメの鉄盾鱗d鉄のようなフライングシャークの鱗  : : 
-白¹ザメの飛膜dフライングシャークの丈夫な飛膜  : : 
-普£鳥ザメの粗肌dフライングシャークの触れると痛い粗肌  : : 
-磨£鳥ザメの魚眼dフライングシャークの視野の広い眼  : : 
-浴£鳥ザメの鳥脚d繊細なトゲトゲで覆われたサメの荒い皮  : : 
-鳥ザメの翼骨  : : 
-フライングシャークの翼の骨  : : 
-剪¹ザメの牙  : : 
-フライングシャークのギザギザの牙  : : 
-嚼n牙獣の大爪È大きいサーベルタイガーが持つ鋭利な爪  : : 
-寳n牙獣の大牙È大きいサーベルタイガーの鋭い牙  : : 
-怐£刃牙獣の敏感耳È大きいサーベルタイガーのとても敏感な耳  : : 
-掾£刃牙獣の鞭尾È大きいサーベルタイガーのしなやかシッポ  : : 
-栫£刃牙獣の猛獣骨È大きいサーベルタイガーの猛々しい骨  : : 
-氈£刃牙獣の迅脚Ü  : : 
-大きいサーベルタイガーの迅速な脚  : : 
-刃牙獣の柔肉球Ü  : : 
-大きいサーベルタイガーの軟らかい肉球  : : 
-¡牙獣の爪dサーベルタイガーが持つ鋭利な爪  : : 
-¢牙獣の牙d何にでも喰らいつくサーベルタイガーの牙  : : 
-牙獣の耳dサーベルタイガーのよく聞こえる耳  : : 
-牙獣の尻尾dサーベルタイガーのフサフサしたシッポ  : : 
-牙獣の獣骨dサーベルタイガーの獣らしい骨  : : 
-牙獣の速脚  : : 
-サーベルタイガーのとても速い脚  : : 
-牙獣の肉球  : : 
-サーベルタイガーのプニプニした肉球  : : 
-¨大噛虫の牙d大きいカブリムシのノコギリ状の牙  : : 
-大噛虫の粘液d大きいカブリムシが出す粘った液体  : : 
-大噛虫の大殻d大きいカブリムシの金色の殻  : : 
-大噛虫の太糸d大きいカブリムシが吐く太い糸  : : 
-¬大噛虫の太脚Ü  : : 
-大きいカブリムシに８本もある太い足  : : 
-大噛虫の大笑Ü  : : 
-大きいカブリムシの大笑いしたままの頭部  : : 
-®噛虫の牙dギザギザのノコギリのような牙  : : 
-噛虫の体液dカブリムシが出す体液  : : 
-噛虫の背殻dカブリムシの背中の殻  : : 
-±噛虫の脚dカブリムシに８本もある足  : : 
-噛虫の生糸  : : 
-カブリムシが吐く良質な糸  : : 
-噛虫の微笑  : : 
-カブリムシの笑ったままの頭部  : : 
-´石の塊  : : 
-石の塊、取引は可能だが価値はない  : : 
-µ銅の塊ô  : : 
-銅の塊、普通の値段で取引される  : : 
-¶銀の塊  : : 
-銀の塊、良い値段で取引される  : : 
-·金の塊¸  : : 
-金の塊、高値で取引される  : : 
-¸白金の塊  : : 
-白金の塊、非常に高値で取引される  : : 
-¹くず鉄  : : 
-使い道のない鉄  : : 
-ºくず羽  : : 
-使い道のない羽  : : 
-»くず皮  : : 
-使い道のない皮  : : 
-¼くず爪  : : 
-使い道のない爪  : : 
-½くず角  : : 
-使い道のない角  : : 
-¾くず毛  : : 
-使い道のない毛  : : 
-¿くず牙  : : 
-使い道のない牙  : : 
-À大きなくず鉄  : : 
-使い道のない大きな鉄  : : 
-Á大きなくず羽  : : 
-使い道のない大きな羽  : : 
-Â大きなくず皮  : : 
-使い道のない大きな皮  : : 
-Ã大きなくず爪  : : 
-使い道のない大きな爪  : : 
-Ä大きなくず角  : : 
-使い道のない大きな角  : : 
-Å大きなくず毛  : : 
-使い道のない大きな毛  : : 
-Æ大きなくず牙  : : 
-使い道のない大きな牙  : : 
-Ç巨大なくず鉄  : : 
-使い道のない巨大な鉄  : : 
-È巨大なくず羽  : : 
-使い道のない巨大な羽  : : 
-É巨大なくず皮  : : 
-使い道のない巨大な皮  : : 
-Ê巨大なくず爪  : : 
-使い道のない巨大な爪  : : 
-Ë巨大なくず角  : : 
-使い道のない巨大な角  : : 
-Ì巨大なくず毛  : : 
-使い道のない巨大な毛  : : 
-Í巨大なくず牙  : : 
-使い道のない巨大な牙  : : 
-Î火のラクリマô  : : 
-火の魔力が込められたラクリマ  : : 
-Ï水のラクリマô  : : 
-水の魔力が込められたラクリマ  : : 
-Ð土のラクリマô  : : 
-土の魔力が込められたラクリマ  : : 
-Ñ風のラクリマô  : : 
-風の魔力が込められたラクリマ  : : 
-Ò氷のラクリマô  : : 
-氷の魔力が込められたラクリマ  : : 
-Ó雷のラクリマô  : : 
-雷の魔力が込められたラクリマ  : : 
-Ô砕けたラクリマ2砕けたラクリマ  : : 
-
-The jaw of the Birdfoot is as sharp as a horn
-%The scaled legs of the Ornithoptera
-The birdfoot's legs covered in scales
-The green armor of the Ornithoptera
-The green armor on the back of the Birdfoot
-The sharp scales of the blade armor
-The blade-sharp scales of the Swordfoot
-(Sharp tail of the blade armor
-The sharp tail of the Swordfoot that cuts its prey
-)Slashing leg of the blade armor
-The bladefoot's leg with blade-like fins
-Blade armor's wooden eye
-The eyes protruding from the left and right sides of the Swordfoot
-Sword armor's sword mount armor
-The armor with a series of blades on the Swordfoot's back
-,Iron ore of the ore scale
-Iron ore peeled off the body of the Lacrima Dillo
--Steel ore of the purple ore scale
-Steel ore peeled off the body of the Lacrima Horn
-Rocky surface of the ore scale
-The rough, rocky skin of the Lacrima Dillo
-Double tail of the ore scale
-The heavy tail of the Lacrima Jiro
-Fragment of mineral scaleô
-Fragment of mineral on the back of the Lacrima Jiro
-Lump of mineral scale¸
-Lump of mineral on the back of the Lacrima Jirov
-2 mineral scale crystal¸
-The huge crystal on the back of the Lacrima Jiro
-Rough rock surface of purple mineral scaleô
-Rough rock surface of the Lacrima Horn
-Heavy tail of purple mineral scaleô
-Heavy and hard tail of the Lacrima Horn
-Fragment of purple mineral scaleô
-Purple mineral on the back of the Lacrima Horn
-Rough ore of purple mineral scale¸
-Purple lump on the back of the Lacrima Horn
-7 mineral scale purple crystal¸
-The purple crystal on the back of the Lachrymahorn
-Pumpkin Demon Skinô
-The rough skin that covers the Halloween Head
-9Skull Demon Bone Fangô
-The skeletal fangs of the Skull Head
-:Pumpkin Demon Leafô
-A large leaf that grows from the Halloween Head
-Pumpkin Demon Vineô
-A flexible vine controlled by the Halloween Head
-Pumpkin Demon Rootô
-The root of the Halloween Head that absorbs magical power
-Pumpkin Demon Seed¸
-The seed from which a new Halloween Head is born
-Pumpkin Demon Flower¸
-The Halloween Head flower that blooms only rarely
-Skull Demon Bone Powderô
-The bones of the Skull Head that have been crushed into powder
-Skull Demon Bone Fragmentô
-Skull Head Bone Fragment
-ASkull Demon Tentacleô
-Skull Head's tentacle used for movement and attack
-Skull Demon's Jaw¸
-Skull Head's jaw bone detached
-Skull Demon's Treasure Bone¸
-Jewel-like bone hidden inside Skull Head's head
-DGreat Ape's Coarse Hairô
-Boss Vulcan's fur that can live in extremely cold places
-EGreat Ape's Pointy Earô
-Boss Vulcan's horn-like pointed ears
-FGreat Ape's Skinô
-Boss Vulcan's snow-white fur
-Great Ape's Chin Beardô
-Beard sticking out from Boss Vulcan's chin
-Great Ape's Tailô
-The black tail of the white boss Vulcan
-The crest of the great apeô
-The splendid crest of the boss Vulcan with a pointed tip
-The fist of the great ape¸
-The clenched fist of the boss Vulcan
-The pectoral muscles of the great ape¸
-The well-trained pectoral muscles of the boss Vulcan
-LThe skin of the snow aped dThe white and supple skin of the Vulcan
-MThe fur of the snow aped dThe white fur covering the upper half of the Vulcan
-NThe pointed ears of the snow aped dThe pointed ears that the Vulcan has
-The beard of the snow aped dThe beard sticking out from the chin of the Vulcan
-The tail of the snow aped dThe black tail of the white Vulcan
-The crest of the snow aped dThe crest of the Vulcan with a pointed tip
-The fist of the snow aped
-Vulcan's fist, twice the size of a human
-Snow monkey chest
-Vulcan's well-trained chest
-TBig goblin furdBig goblin's fine, delicate fur
-UBig goblin hidedBig goblin's flexible, strong hide
-VBig goblin clawdBig goblin's sharp claw
-WBig axe iron piecedBig goblin's axe fragment
-Big goblin's eardBig goblin's furry ears
-Big goblin's tailbonedBig goblin's flexible tailbone
-Super fluffy taildBig goblin's very fluffy tail
-Mamorigi large leafÜ
-Big leaf worn by big goblins
-Big goblin's shining eyesÜ
-Big goblin's sparkling eyes
-]Goblin furdFluffy goblin fur
-^Goblin hidedVery thin goblin hide
-_Goblin furdMask soft goblin fur
-`Goblin hidedMask fragile goblin hide
-aGoblin clawdVery small goblin claw
-bShard of field axed fragment of goblin's axe
-cShard of forest sworddMask fragment of goblin's sword
-Goblin's small eardSmall goblin ear
-Goblin's small bonedSmall goblin bone
-Fluffy taildFluffy goblin tail
-Mamorigi leaf è
-Leaf worn by goblins
-Goblin's eyesè
-Cute eyes that goblins have
-Goblin's small earsdMaskGoblin's small ears
-Goblin's small bonesdMaskGoblin's small bones
-Fluffy taildMaskGoblin's fluffy tail
-Mamorigi's autumn leavesè
-Crimson leaves worn by masked goblins
-Goblin's eyesè
-MaskGoblin's moist eyes
-nLarge mushroom wingsÈLarge Mashwing's angelic wings
-oLarge mushroom's sporangiumÈBag filled with spores from Large Mashwing
-pLarge mushroom's bacterial threadÈLarge Mashwing's fine mycelium
-Large mushroom's rock tipÈLarge Mashwing's butt
-Thick jig from a large mushroomÜ
-Thick and sturdy jig from a large mashwing
-Large mushroom umbrellaÜ
-Large mashwing's large umbrella
-tRed mushroom wingdFluffy wing from a mashwing
-uDemon child's wingdWing made from Magicwing's clothing
-Red mushroom sporedSpores spewing from a mashwing
-wRed mushroom myceliumdThread-like fungus from a mashwing
-Red mushroom spikedMashwing's butt that sticks to anything
-Red mushroom jig
-Fiberous jig from a mashwing
-Red mushroom umbrella
-Mashwing umbrella part
-Rip of Demon child's clothingdScratch of Magicwing clothing
-Madoji's zipperdMagic Wing's big zipper on his clothes
-Madoji's thin legsdMagic Wing's extremely thin legs
-~Madoji's small hat
-Magic Wing's hat, too small for humans
-Madoji's eyes
-Magic Wing's eyes glowing inside the hat
-Antennae of the Super Color Changing SpheredLarge antennae imbued with attributes
-=£Mucosa of the Super Color Changing SphereÈMucosa that can take on any attribute
-a£Super Color Changing GelÈLiquid whose viscosity and temperature change depending on color
-m£Super Color Changing JellyÈJelly whose taste and attributes change depending on color
-p£Super Color Changing Gummy Ü
-Gummy whose taste and attributes change depending on color
-Super Color Changing Sphere's Core Ü
-A giant core whose body's attributes change depending on color
-Antennae of a color-changing ball dAntennae that are imbued with attributes and expand and contract depending on the attribute
-
-"Color-changing ball membrane dA thin membrane that can take on various attributes
-Color-changing gel dA liquid whose viscosity and temperature change depending on the color
-
-Color-changing jelly dA jelly whose taste and attributes change depending on the color
-
-Color-changing gummy candy
-Gummy candy whose taste and attributes change depending on the color
-Illusionary color-changing ball core
-A core whose body's attributes change depending on the color
-Clear Shark's steel shield scales ÈThe steel-like scales of a large flying shark
-Shark's flying membrane ÈThe sturdy flying membrane of a large flying shark
-Monster Shark's file skin ÈThe file-like skin of a large flying shark
-Sharp fish eyes of the giant flying shark È Sharp, pointed eyes of the big flying shark
-Strong legs of the giant flying shark È Stiff legs of the big flying shark
-Large wing bones of the giant flying shark Ü
-Large wing bones of the big flying shark
-Sharp fangs of the giant shark Ü
-Sharp fangs of the big flying shark
-Iron scales of the giant shark È Iron-like scales of the flying shark
-Flying membrane of the white shark È Strong flying membrane of the flying shark
-Rough skin of the normal bird shark È Rough skin of the flying shark that hurts to the touch
-Fish eyes of the polished bird shark È Wide-eyed eyes of the flying shark
-Bird legs of the yellow bird shark È Rough skin of the shark covered with delicate spikes
-Wing bone of a bird shark
-Wing bone of a flying shark
-Sharp fang of a shark
-Jagged fang of a flying shark
-Large claw of a fang beast - Sharp claw of a large sabre-toothed tiger
-Large fang of a fang beast - Sharp fang of a large sabre-toothed tiger
-Sensitive ear of a fang beast - Very sensitive ear of a large sabre-toothed tiger
-Whip tail of a fang beast - Flexible tail of a large sabre-toothed tiger
-Beast bone of a fang beast - Ferocious bone of a large sabre-toothed tiger
-Swift leg of a fang beast
-Soft paw of a fang beast
-The soft paws of a large sabre-toothed tiger: :
-¡ Claws of the fanged beastdSharp claws of the sabre-toothed tiger
-¢Fangs of the fanged beastdFangs of the sabre-toothed tiger that can bite into anything
-Ears of the fanged beastdEars that can hear well of the sabre-toothed tiger
-Tails of the fanged beastdFuzzy tails of the sabre-toothed tiger
-Beast bones of the fanged beastdBeast-like bones of the sabre-toothed tiger
-Fast legs of the fanged beast
-Very fast legs of the sabre-toothed tiger
-Paws of the fanged beast
-Squishy paws of the sabre-toothed tiger
-¨Fangs of the large biting insectdSaw-like fangs of the large rhinoceros beetle
-Slimes of the large biting insectdSticky liquid excreted by the large rhinoceros beetle
-Large shells of the large biting insectdGolden shells of the large rhinoceros beetle
-The thick thread of a large biting insect dThe thick thread spit out by a large rhinoceros beetle
-¬The thick legs of a large biting insect Ü
-The large rhinoceros beetle has eight of them
+鳥脚爬の尖顎 : : The pointed jaw of the Ornithoptera
+バードフットの角並みに鋭い顎 : : The jaw of the Birdfoot is as sharp as a horn
+鳥脚爬の鱗脚 : : The scaled legs of the Ornithoptera
+バードフットの鱗で覆われた鳥脚 : : The birdfoot's legs covered in scales
+鳥脚爬の翠甲 : : The green armor of the Ornithoptera
+バードフットの背の翠色をした甲 : : The green armor on the back of the Birdfoot
+刃甲爬の鋭鱗 : : The sharp scales of the blade armor
+ソードフットの刃物のように鋭い鱗 : : The blade-sharp scales of the Swordfoot
+刃甲爬の鋭尾 : : Sharp tail of the blade armor
+ソードフットの獲物を斬りつける鋭い尻尾 : : The sharp tail of the Swordfoot that cuts its prey
+刃甲爬の斬脚 : : Slashing leg of the blade armor
+刃物のようなヒレ付きのソードフットの脚 : : The bladefoot's leg with blade-like fins
+刃甲爬の撞木眼 : : Blade armor's wooden eye
+ソードフットの左右に突き出した眼 : : The eyes protruding from the left and right sides of the Swordfoot
+刃甲爬の剣山甲 : : Sword armor's sword mount armor
+ソードフットの背の刃が連なる甲 : : The armor with a series of blades on the Swordfoot's back
+,鉱鱗の鉄鉱石 : : Iron ore of the ore scale
+ラクリマジロの体から剥がれ落ちた鉄鉱石 : : Iron ore peeled off the body of the Lacrima Dillo
+紫鉱鱗の鋼鉱石 : : Steel ore of the purple ore scale
+ラクリマホーンの体から剥がれた鋼鉱石 : : Steel ore peeled off the body of the Lacrima Horn
+鉱鱗の岩肌 : : Rocky surface of the ore scale
+ラクリマジロの岩のようにごつごつした肌 : : The rough, rocky skin of the Lacrima Dillo
+鉱鱗の重尾 : : Double tail of the ore scale
+ラクリマジロのずっしりとした尻尾 : : The heavy tail of the Lacrima Jiro
+鉱鱗のカケラ : : Fragment of mineral scale
+ラクリマジロの背にある鉱物のカケラ : : Fragment of mineral on the back of the Lacrima Jiro
+鉱鱗のカタマリ : : Lump of mineral scale
+ラクリマジロの背にある鉱物のカタマリ : : Lump of mineral on the back of the Lacrima Jirov
+鉱鱗晶 : : mineral scale crystal
+ラクリマジロの背にある巨大な水晶 : : The huge crystal on the back of the Lacrima Jiro
+紫鉱鱗の粗岩肌 : : Rough rock surface of purple mineral scale
+ラクリマホーンの荒々しい岩肌 : : Rough rock surface of the Lacrima Horn
+紫鉱鱗の重尾 : : Heavy tail of purple mineral scale
+ラクリマホーンの重く硬い尻尾 : : Heavy and hard tail of the Lacrima Horn
+紫鉱鱗の破片 : : Fragment of purple mineral scale
+ラクリマホーンの背にある紫色の鉱物 : : Purple mineral on the back of the Lacrima Horn
+紫鉱鱗の原石 : : Rough ore of purple mineral scale
+ラクリマホーンの背にある紫色の塊 : : Purple lump on the back of the Lacrima Horn
+鉱鱗紫晶 : : mineral scale purple crystal
+ラクリマホーンの背の紫色をした水晶 : : The purple crystal on the back of the Lachrymahorn
+カボチャ魔の皮 : : Pumpkin Demon Skin
+ハロウィンヘッドを覆うゴツゴツとした皮 : : The rough skin that covers the Halloween Head
+9頭骨魔の骨牙 : : Skull Demon Bone Fang
+スカルヘッドの白骨化した牙 : : The skeletal fangs of the Skull Head
+:カボチャ魔の葉 : : Pumpkin Demon Leaf
+ハロウィンヘッドから生える大きな葉 : : A large leaf that grows from the Halloween Head
+カボチャ魔の蔓 : : Pumpkin Demon Vine
+ハロウィンヘッドが操るしなやかな蔓 : : A flexible vine controlled by the Halloween Head
+カボチャ魔の根 : : Pumpkin Demon Root
+魔力を吸収するハロウィンヘッドの根 : : The root of the Halloween Head that absorbs magical power
+カボチャ魔の種 : : Pumpkin Demon Seed
+新たなハロウィンヘッドが生まれる種 : : The seed from which a new Halloween Head is born
+カボチャ魔の花 : : Pumpkin Demon Flower
+稀にしか咲かないハロウィンヘッドの花 : : The Halloween Head flower that blooms only rarely
+頭骨魔の骨粉 : : Skull Demon Bone Powder
+スカルヘッドの骨が粉のように砕けたもの : : The bones of the Skull Head that have been crushed into powder
+頭骨魔の骨片 : : Skull Demon Bone Fragment
+スカルヘッドの骨のカケラ : : Skull Head Bone Fragment
+頭骨魔の触手 : : Skull Demon Tentacle
+移動や攻撃に使われるスカルヘッドの触手 : : Skull Head's tentacle used for movement and attack
+頭骨魔のアゴ : : Skull Demon's Jaw
+スカルヘッドの顎骨が外れたもの : : Skull Head's jaw bone detached
+頭骨魔の宝骨 : : Skull Demon's Treasure Bone
+スカルヘッドの頭内に潜む宝石のような骨 : : Jewel-like bone hidden inside Skull Head's head
+D大猿の剛毛 : : Great Ape's Coarse Hair
+極寒の地でも生息できるボスバルカンの毛 : : Boss Vulcan's fur that can live in extremely cold places
+E大猿の尖耳 : : Great Ape's Pointy Ear
+ボスバルカンの角のように尖った耳 : : Boss Vulcan's horn-like pointed ears
+F大猿の皮 : : Great Ape's Skin
+雪のように真っ白なボスバルカンの毛皮 : : Boss Vulcan's snow-white fur
+大猿のアゴヒゲ : : Great Ape's Chin Beard
+ボスバルカンのアゴから突き出したヒゲ : : Beard sticking out from Boss Vulcan's chin
+大猿のシッポ : : Great Ape's Tail
+白いボスバルカンの黒い尻尾 : : The black tail of the white boss Vulcan
+大猿のトサカ : : The crest of the great ape
+ボスバルカンの先の尖った立派なトサカ : : The splendid crest of the boss Vulcan with a pointed tip
+大猿の拳骨 : : The fist of the great ape
+ボスバルカンの握り締めたままの拳 : : The clenched fist of the boss Vulcan
+大猿の大胸筋 : : The pectoral muscles of the great ape
+ボスバルカンの鍛え上げられた大胸筋 : : The well-trained pectoral muscles of the boss Vulcan
+雪猿の皮 : : The skin of the snow aped 
+白くしなやかなバルカンの皮 : : The white and supple skin of the Vulcan
+雪猿の毛 : : The fur of the snow aped
+バルカンの上半身を覆う白い毛 : : The white fur covering the upper half of the Vulcan
+雪猿の尖耳 : : The pointed ears of the snow aped
+バルカンが持つ角のように尖った耳 : : The pointed ears that the Vulcan has
+雪猿のアゴヒゲ : : The beard of the snow aped
+バルカンのアゴから突き出るヒゲ : : The beard sticking out from the chin of the Vulcan
+雪猿のシッポ : : The tail of the snow aped 
+白いバルカンの黒い尻尾 : : The black tail of the white Vulcan
+雪猿のトサカ : : The crest of the snow aped
+バルカンの先の尖ったトサカ : : The crest of the Vulcan with a pointed tip
+雪猿の拳 : : The fist of the snow aped
+人間の倍ほどの大きさのバルカンの拳 : : Vulcan's fist, twice the size of a human
+雪猿の胸板 : Vulk chest : Snow monkey chest
+バルカンの鍛え上げられた胸板 : : Vulcan's well-trained chest
+大ゴブリンの毛 : : Big goblin fur
+大きいゴブリンのキメが細かく繊細な毛 : : Big goblin's fine, delicate fur
+大ゴブリンの皮 : : Big goblin hide
+大きいゴブリンの柔軟で丈夫な皮 : : Big goblin's flexible, strong hide
+大ゴブリンの爪 : : Big goblin claw
+大きいゴブリンの鋭利な爪 : : Big goblin's sharp claw
+大斧の鉄片 : : Big axe iron piece
+大きいゴブリンの持つ斧のカケラ : : Big goblin's axe fragment
+大ゴブリンの耳 : : Big goblin's ear
+大きいゴブリンのケモノ耳 : : Big goblin's furry ears
+大ゴブリンの尾骨 : : Big goblin's tailbone
+大きいゴブリンの柔軟な尾骨 : : Big goblin's flexible tailbone
+超ふかふかシッポ : : Super fluffy tail
+とてもふかふかな大きいゴブリンのシッポ : : Big goblin's very fluffy tail
+マモリギの大葉Ü : : Mamorigi large leaf
+大きいゴブリンが身につける大きな葉っぱ : : Big leaf worn by big goblins
+大ゴブリンの輝瞳Ü : : Big goblin's shining eyes
+大きいゴブリンのキラキラと輝く瞳 : : Big goblin's sparkling eyes
+ゴブリンの毛 : : Goblin fur
+ふわふわしたゴブリンの毛 : : Fluffy goblin fur
+ゴブリンの皮 : : Goblin hide
+ゴブリンのとても薄い皮　: : Very thin goblin hide
+ゴブニンの毛 : : Goblin fur
+マスクゴブリンのやわらかい毛 : : Mask soft goblin fur
+ゴブニンの皮 : : Goblin hide
+マスクゴブリンの破れやすい皮 : : Mask fragile goblin hide
+ゴブリンの爪 : : Goblin claw
+ゴブリンの持つとても小さな爪 : : Very small goblin claw
+野斧の鉄片 : : Shard of field axe
+ゴブリンの持つ斧の欠片 : : fragment of goblin's axe
+森剣の鉄片 : : Shard of forest sword
+マスクゴブリンが持つ剣の欠片 : : Mask fragment of goblin's sword
+ゴブリンの小耳 : : Goblin's small ear
+ゴブリンが持つ小さい耳 : : Small goblin ear
+ゴブリンの小骨 : : Goblin's small bone
+ゴブリンが持つ小さい骨 : : Small goblin bone
+ふかふかシッポ : : Fluffy tail
+ゴブリンのふかふかしたシッポ : : Fluffy goblin tail
+マモリギの葉 : : Mamorigi leaf
+ゴブリンが身につける葉っぱ : : Leaf worn by goblins
+ゴブリンの瞳 : : Goblin's eyes
+ゴブリンが持つ可愛らしい瞳 : : Cute eyes that goblins have
+ゴブニンの小耳 : : Goblin's small ears
+マスクゴブリンが持つ小さい耳 : : MaskGoblin's small ears
+ゴブニンの小骨 : : Goblin's small bones
+マスクゴブリンが持つ小さい骨 : : MaskGoblin's small bones
+もふもふシッポ : : Fluffy tail
+マスクゴブリンのもふもふしたシッポ : : MaskGoblin's fluffy tail
+マモリギの紅葉 : : Mamorigi's autumn leaves
+マスクゴブリンが身につける紅い葉っぱ : : Crimson leaves worn by masked goblins
+ゴブニンの瞳 : : Goblin's eyes
+マスクゴブリンの潤んだ瞳 : : MaskGoblin's moist eyes
+大キノコの羽 : : Large mushroom wings
+大きいマッシュウィングの天使のような羽 : : Large Mashwing's angelic wings
+大キノコの胞子嚢 : : Large mushroom's sporangium
+大きいマッシュウィングの胞子が入った袋 : : Bag filled with spores from Large Mashwing
+大キノコの細菌糸 : : Large mushroom's bacterial thread
+大きいマッシュウィングのキメ細かい菌糸 : : Large Mashwing's fine mycelium
+大キノコの岩突き : : Large mushroom's rock tip
+大きいマッシュウィングのお尻の部分 : : Large Mashwing's butt
+大キノコの太ジク : : Thick jig from a large mushroom
+大きいマッシュウィングの太く丈夫なジク : : Thick and sturdy jig from a large mashwing
+大キノコの大ガサ : : Large mushroom umbrella
+大きいマッシュウィングの大きなカサ : : Large mashwing's large umbrella
+赤キノコの羽 : : Red mushroom wing
+マッシュウィングのフワフワした羽 : : Fluffy wing from a mashwing
+魔童子の羽 : : Demon child's wing
+マジックウィングの衣で型取った羽 : : Wing made from Magicwing's clothing
+赤キノコの胞子 : : Red mushroom spore
+マッシュウィングから噴出す胞子 : : Spores spewing from a mashwing
+赤キノコの菌糸 : : Red mushroom mycelium
+マッシュウィングの糸のような菌 : : Thread-like fungus from a mashwing
+赤キノコの石突き : : Red mushroom spike
+マッシュウィングの何にでもくっつくお尻 : : Mashwing's butt that sticks to anything
+赤キノコのジク : : Red mushroom jig
+マッシュウィングの繊維質なジク : : Fiberous jig from a mashwing
+赤キノコのカサ : : Red mushroom umbrella
+マッシュウィングのカサの部分 : : Mashwing umbrella part
+魔童子の衣ギレ : : Rip of Demon child's clothing
+マジックウィングの衣の切れ端 : : Scratch of Magicwing clothing
+魔童子のチャック : : Madoji's zipper
+マジックウィングの服の大きなチャック : : Magic Wing's big zipper on his clothes
+魔童子の細脚 : : Madoji's thin legs
+マジックウィングの細すぎる足 : : Magic Wing's extremely thin legs
+魔童子の小帽子 : : Madoji's small hat
+マジックウィングの帽子、人間には小さい : : Magic Wing's hat, too small for humans
+魔童子の瞳 : : Madoji's eyes
+帽子の中で光るマジックウィングの瞳 : : Magic Wing's eyes glowing inside the hat
+超変色球の触角 : : Antennae of the Super Color Changing Sphere
+属性を帯びた大きな触角 : : Large antennae imbued with attributes
+超変色球の粘膜 : : Mucosa of the Super Color Changing Sphere
+どんな属性も纏うことが出来る粘膜 : : Mucosa that can take on any attribute
+超変色ジェル : : Super Color Changing Gel
+色によって粘度や温度が変化する液体 : : Liquid whose viscosity and temperature change depending on color
+超変色ゼリー : : Super Color Changing Jelly
+色によって味や属性が変化するゼリー : : Jelly whose taste and attributes change depending on color
+超変色グミ : : Super Color Changing Gummy
+色によって味や属性が変化するグミ : : Gummy whose taste and attributes change depending on color
+超変色球の核 : : Super Color Changing Sphere's Core
+色によって本体の属性が変化する巨大核 : : A giant core whose body's attributes change depending on color
+変色球の触角 : : Antennae of a color-changing ball
+属性を帯び、属性によって伸縮する触角 : : Antennae that are imbued with attributes and expand and contract depending on the attribute
+変色球の薄膜 : : Color-changing ball membrane
+さまざまな属性を纏うことが出来る薄い膜 : : A thin membrane that can take on various attributes
+変色ジェル : : Color-changing gel
+色によって粘度や温度が変化する液体 : : A liquid whose viscosity and temperature change depending on the color
+堰£変色ゼリー : : Color-changing jelly
+色によって味や属性が変化するゼリー : : A jelly whose taste and attributes change depending on the color
+梶£変色グミ : : Color-changing gummy candy
+色によって味や属性が変化するグミ : : Gummy candy whose taste and attributes change depending on the color
+虚Ï色球の核 : : Illusionary color-changing ball core
+色によって本体の属性が変化する核 : : A core whose body's attributes change depending on the color
+潔¹ザメの鋼盾鱗 : : Clear Shark's steel shield scales 
+鋼のような大きなフライングシャークの鱗 : : The steel-like scales of a large flying shark
+拷¹ザメの飛膜 : : Shark's flying membrane 
+大きなフライングシャークの丈夫な飛膜 : : The sturdy flying membrane of a large flying shark
+氏£怪鳥ザメの鑢肌 : : Monster Shark's file skin 
+ヤスリ状の大きなフライングシャークの肌 : : The file-like skin of a large flying shark
+潤£怪鳥ザメの鋭魚眼 : : Sharp fish eyes of the giant flying shark 
+大きなフライングシャークの鋭く尖った目 : : Sharp, pointed eyes of the big flying shark
+吹£怪鳥ザメの堅脚 : : Strong legs of the giant flying shark 
+大きなフライングシャークの堅い脚 : : Stiff legs of the big flying shark
+早£怪鳥ザメの大翼骨 : : Large wing bones of the giant flying shark
+大きなフライングシャークの大きな翼の骨 : : Large wing bones of the big flying shark
+忠¹ザメの鋭牙 : : Sharp fangs of the giant shark
+大きなフライングシャークの鋭い牙 : : Sharp fangs of the big flying shark
+湯¹ザメの鉄盾鱗 : : Iron scales of the giant shark 
+鉄のようなフライングシャークの鱗 : : Iron-like scales of the flying shark
+白¹ザメの飛膜 : : Flying membrane of the white shark 
+フライングシャークの丈夫な飛膜 : : Strong flying membrane of the flying shark
+普£鳥ザメの粗肌 : : Rough skin of the normal bird shark
+フライングシャークの触れると痛い粗肌 : : Rough skin of the flying shark that hurts to the touch
+磨£鳥ザメの魚眼 : : Fish eyes of the polished bird shark 
+フライングシャークの視野の広い眼 : : Wide-eyed eyes of the flying shark
+浴£鳥ザメの鳥脚 : : Bird legs of the yellow bird shark 
+繊細なトゲトゲで覆われたサメの荒い皮 : : Rough skin of the shark covered with delicate spikes
+鳥ザメの翼骨 : : Wing bone of a bird shark
+フライングシャークの翼の骨 : : Wing bone of a flying shark
+ザメの牙 : : Shark Tooth
+フライングシャークのギザギザの牙 : : Flying Shark's Jagged Fangs
+牙獣の大爪 : : Fanged Beast Claw
+大きいサーベルタイガーが持つ鋭利な爪 : : Large claw of a fang beast - Sharp claw of a large sabre-toothed tiger
+牙獣の大牙 : : Fanged Beast's Fang
+大きいサーベルタイガーの鋭い牙 : : Large fang of a fang beast - Sharp fang of a large sabre-toothed tiger
+刃牙獣の敏感耳 : : The sensitive ears of the Baki beast
+大きいサーベルタイガーのとても敏感な耳 : : Sensitive ear of a fang beast - Very sensitive ear of a large sabre-toothed tiger
+刃牙獣の鞭尾 : : Blade Beast's Whip Tail
+大きいサーベルタイガーのしなやかシッポ : : Whip tail of a fang beast - Flexible tail of a large sabre-toothed tiger
+刃牙獣の猛獣骨 : : Blade Beast Bone
+大きいサーベルタイガーの猛々しい骨 : : Beast bone of a fang beast - Ferocious bone of a large sabre-toothed tiger
+刃牙獣の迅脚 : : Blade Beast's Swift Legs
+大きいサーベルタイガーの迅速な脚 : : The swift legs of a large sabre-toothed tiger
+刃牙獣の柔肉球 : : Baki Beast's Soft Paws
+大きいサーベルタイガーの軟らかい肉球 : : The soft paws of a large sabre-toothed tiger
+牙獣の爪 : : Fanged Beast Claws
+サーベルタイガーが持つ鋭利な爪 : : The sharp claws of a sabre-toothed tiger
+牙獣の牙 : : Fanged Beast's Fang
+何にでも喰らいつくサーベルタイガーの牙 : : The fangs of a sabre-toothed tiger that bites into anything
+牙獣の耳 : : Tusk Beast Ears
+サーベルタイガーのよく聞こえる耳 : : The sabre-toothed tiger's keen hearing
+牙獣の尻尾 : : Fanged Beast's Tail
+サーベルタイガーのフサフサしたシッポ : : The bushy tail of a sabre-toothed tiger
+牙獣の獣骨 : : Fanged Beast Bone
+サーベルタイガーの獣らしい骨 : : The beast-like bones of a sabre-toothed tiger
+牙獣の速脚 : : Fanged Beast Swiftfoot
+サーベルタイガーのとても速い脚 : : The very fast legs of the sabre-toothed tiger
+牙獣の肉球 : : Fanged Beast's Paw
+サーベルタイガーのプニプニした肉球 : : Squishy paws of a saber-toothed tiger
+大噛虫の牙 : : Giant Biting Insect Fangs
+大きいカブリムシのノコギリ状の牙 : : The saw-like fangs of a large rhinoceros beetle
+大噛虫の粘液 : : Giant Biting Insect Mucus
+大きいカブリムシが出す粘った液体 : : 大きいカブリムシが出す粘った液体
+大噛虫の大殻 : : Large shell of large biting insect
+大きいカブリムシの金色の殻 : : The golden shell of a large rhinoceros beetle
+大噛虫の太糸 : : Thick thread of the giant biting insect
+大きいカブリムシが吐く太い糸 : : A thick thread spun by a large rhinoceros beetle
+大噛虫の太脚 : : Big Biting Insect's Thick Legs
+大きいカブリムシに８本もある太い足 : : A large rhinoceros beetle with eight thick legs
+大噛虫の大笑 : : Big laugh of the big biter
+大きいカブリムシの大笑いしたままの頭部 : : The head of a large rhinoceros beetle, still laughing out loud
+噛虫の牙 : : Biting insect fangs
+ギザギザのノコギリのような牙 : : Jagged, saw-like fangs
+噛虫の体液 : : Biting insect body fluids
+カブリムシが出す体液 : : Body fluids secreted by rhinoceros beetles
+噛虫の背殻 : : Biting insect's dorsal shell
+カブリムシの背中の殻 : : The shell on the back of a rhinoceros beetle
+噛虫の脚 : : Biting insect legs
+カブリムシに８本もある足 : : A rhinoceros beetle has eight legs
+噛虫の生糸 : : Biting insect silk
+カブリムシが吐く良質な糸 : : High-quality silk spun by rhinoceros beetles
+噛虫の微笑 : :  The smile of a biting insect
+カブリムシの笑ったままの頭部 : : Smiling head of a rhinoceros beetle
+石の塊 : : Stone block
+石の塊、取引は可能だが価値はない : : A lump of stone, tradeable but worthless
+銅の塊 : : Copper Ingot
+銅の塊、普通の値段で取引される : : Copper bars trade at normal prices
+銀の塊 : : Silver Ingot
+銀の塊、良い値段で取引される : : Silver bars fetch good prices
+金の塊 : : Gold Nugget
+金の塊、高値で取引される : : Gold bars trade at high prices
+白金の塊 : : Platinum Ingot
+白金の塊、非常に高値で取引される : : Platinum nuggets fetch extremely high prices
+くず鉄 : : Scrap metal
+使い道のない鉄 : : Useless Iron
+くず羽 : : Kudzu Feather
+使い道のない羽 : : Useless Feather
+くず皮 : : Bark scraps
+使い道のない皮 : : Unusable Skin
+¼くず爪 : : ¼ claw
+使い道のない爪 : : Useless nails
+½くず角 : : ½ corner
+使い道のない角 : : Unused Corner
+¾くず毛 : : ¾ Hair scraps
+使い道のない毛 : : Useless hair
+くず牙 : : Trash Fang
+使い道のない牙 : : Useless Fangs
+大きなくず鉄 : : Large scrap metal
+使い道のない大きな鉄 : : A large piece of iron with no use
+大きなくず羽 : : Large feather litter
+使い道のない大きな羽 : : A big feather with no use
+大きなくず皮 : : Large scraps of bark
+使い道のない大きな皮 : : A large piece of skin that has no use
+大きなくず爪 : : Large Scrap Claw
+使い道のない大きな爪 : : A big, useless claw
+大きなくず角 : : Large waste corner
+使い道のない大きな角 : : A large horn with no use
+大きなくず毛 : : Large hair fluff
+使い道のない大きな毛 : : Large hair with no use
+大きなくず牙 : : Big tusk
+使い道のない大きな牙 : : Large, useless fangs
+巨大なくず鉄 : : Huge Scrap Metal
+使い道のない巨大な鉄 : : A huge, useless piece of iron
+巨大なくず羽 : : Giant Scab Feather
+使い道のない巨大な羽 : : A giant, useless feather
+巨大なくず皮 : : Giant Scrap Leather
+使い道のない巨大な皮 : : A huge, useless hide
+巨大なくず爪 : : Giant Claw
+使い道のない巨大な爪 : : A giant, useless claw
+巨大なくず角 : : Huge Scuff Horn
+使い道のない巨大な角 : : A huge, useless horn
+巨大なくず毛 : : Giant hair fur
+使い道のない巨大な毛 : : Huge useless hair
+巨大なくず牙 : : Giant Trash Tusk
+使い道のない巨大な牙 : : Huge, useless fangs
+火のラクリマ : : Fire Lacrima
+火の魔力が込められたラクリマ : : Lacrima imbued with the magical power of fire
+水のラクリマ : : Water Lacrima
+水の魔力が込められたラクリマ : : Lacrima imbued with the magical power of water.
+土のラクリマ : : Earth Lacrima
+土の魔力が込められたラクリマ : : 
+風のラクリマ : : Wind Lacrima
+風の魔力が込められたラクリマ : : Lacrima imbued with the magical power of wind.
+氷のラクリマ : : Ice Lacrima
+氷の魔力が込められたラクリマ : : Lacrima imbued with the magical power of ice.
+雷のラクリマ : : Lightning Lacrima
+雷の魔力が込められたラクリマ : : Lacrima imbued with the magical power of lightning
+砕けたラクリマ2砕けたラクリマ : : Broken Lacrima 2 Broken Lacrima
