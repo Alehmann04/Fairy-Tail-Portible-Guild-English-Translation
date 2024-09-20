@@ -131,7 +131,7 @@ ______________________________
     * □ QuestAssist
     * ★ skill
     * ★ items
-    * ▼ material
+    * ★ material
 	
   * □ Add implementable translations to the translation tables for:
     * □ eventtext
@@ -157,7 +157,7 @@ ______________________________
     * □ Powerupitem
     * □ Quest
     * □ QuestAssist
-    * ▼ skill
+    * ★ skill
     * ★ items
     * ▼ material
 
