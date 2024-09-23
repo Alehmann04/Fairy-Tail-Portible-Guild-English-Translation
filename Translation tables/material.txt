@@ -28,7 +28,7 @@
 幻翼獣の飛膜 : Beast Wing : Winged Beast's Flying Membrane
 デュプリケーターの翼の膜 : : Duplicator Wing Membrane
 幻翼獣の卵殻 : : Phantom Beast Eggshell
-複製が作られた際に残る卵の殻 : : Eggshells left over from replicas made
+複製が作られた際に残る卵の殻 : Replica's EggShells : Eggshells left over from replicas made
 幻翼獣の翼骨 : Phantom Wing : Wingbone of the Phantom Beast
 デュプリケーターの翼骨 : : Duplicator Wingbone
 幻翼獣の涙 : : Tears of the Phantom Beast
@@ -101,7 +101,7 @@
 ソードフットの左右に突き出した眼 : : The eyes protruding from the left and right sides of the Swordfoot
 刃甲爬の剣山甲 : : Sword armor's sword mount armor
 ソードフットの背の刃が連なる甲 : : The armor with a series of blades on the Swordfoot's back
-,鉱鱗の鉄鉱石 : : Iron ore of the ore scale
+鉱鱗の鉄鉱石 :  : Iron ore of the ore scale
 ラクリマジロの体から剥がれ落ちた鉄鉱石 : : Iron ore peeled off the body of the Lacrima Dillo
 紫鉱鱗の鋼鉱石 : : Steel ore of the purple ore scale
 ラクリマホーンの体から剥がれた鋼鉱石 : : Steel ore peeled off the body of the Lacrima Horn
@@ -127,7 +127,7 @@
 ラクリマホーンの背の紫色をした水晶 : : The purple crystal on the back of the Lachrymahorn
 カボチャ魔の皮 : : Pumpkin Demon Skin
 ハロウィンヘッドを覆うゴツゴツとした皮 : : The rough skin that covers the Halloween Head
-9頭骨魔の骨牙 : : Skull Demon Bone Fang
+頭骨魔の骨牙 : : Skull Demon Bone Fang
 スカルヘッドの白骨化した牙 : : The skeletal fangs of the Skull Head
 :カボチャ魔の葉 : : Pumpkin Demon Leaf
 ハロウィンヘッドから生える大きな葉 : : A large leaf that grows from the Halloween Head
@@ -146,31 +146,31 @@
 頭骨魔の触手 : : Skull Demon Tentacle
 移動や攻撃に使われるスカルヘッドの触手 : : Skull Head's tentacle used for movement and attack
 頭骨魔のアゴ : : Skull Demon's Jaw
-スカルヘッドの顎骨が外れたもの : : Skull Head's jaw bone detached
-頭骨魔の宝骨 : : Skull Demon's Treasure Bone
+スカルヘッドの顎骨が外れたもの :  : Skull Head's jaw bone detached
+頭骨魔の宝骨 :  : Skull Demon's Treasure Bone
 スカルヘッドの頭内に潜む宝石のような骨 : : Jewel-like bone hidden inside Skull Head's head
-D大猿の剛毛 : : Great Ape's Coarse Hair
+D大猿の剛毛 : Vulk fur : Great Ape's Coarse Hair
 極寒の地でも生息できるボスバルカンの毛 : : Boss Vulcan's fur that can live in extremely cold places
-E大猿の尖耳 : : Great Ape's Pointy Ear
+大猿の尖耳 : Vulk Ear : Great Ape's Pointy Ear
 ボスバルカンの角のように尖った耳 : : Boss Vulcan's horn-like pointed ears
-F大猿の皮 : : Great Ape's Skin
-雪のように真っ白なボスバルカンの毛皮 : : Boss Vulcan's snow-white fur
-大猿のアゴヒゲ : : Great Ape's Chin Beard
-ボスバルカンのアゴから突き出したヒゲ : : Beard sticking out from Boss Vulcan's chin
-大猿のシッポ : : Great Ape's Tail
-白いボスバルカンの黒い尻尾 : : The black tail of the white boss Vulcan
-大猿のトサカ : : The crest of the great ape
-ボスバルカンの先の尖った立派なトサカ : : The splendid crest of the boss Vulcan with a pointed tip
-大猿の拳骨 : : The fist of the great ape
-ボスバルカンの握り締めたままの拳 : : The clenched fist of the boss Vulcan
-大猿の大胸筋 : : The pectoral muscles of the great ape
-ボスバルカンの鍛え上げられた大胸筋 : : The well-trained pectoral muscles of the boss Vulcan
-雪猿の皮 : : The skin of the snow aped 
-白くしなやかなバルカンの皮 : : The white and supple skin of the Vulcan
-雪猿の毛 : : The fur of the snow aped
-バルカンの上半身を覆う白い毛 : : The white fur covering the upper half of the Vulcan
-雪猿の尖耳 : : The pointed ears of the snow aped
-バルカンが持つ角のように尖った耳 : : The pointed ears that the Vulcan has
+大猿の皮 : VulkPelt : Great Ape's Skin
+雪のように真っ白なボスバルカンの毛皮 : the pelt of the Vulkan boss : Boss Vulcan's snow-white fur
+大猿のアゴヒゲ : Vulk Beard : Great Ape's Chin Beard
+ボスバルカンのアゴから突き出したヒゲ : The beard of the Vulkan boss : Beard sticking out from Boss Vulcan's chin
+大猿のシッポ : Vulk Tail : Great Ape's Tail
+白いボスバルカンの黒い尻尾 : The tail of the Vulkan boss  : The black tail of the white boss Vulcan
+大猿のトサカ : Vulk Crest : The crest of the great ape
+ボスバルカンの先の尖った立派なトサカ : The Vulkan boss's Crest : The splendid crest of the boss Vulcan with a pointed tip
+大猿の拳骨 : Vulk Fist : The fist of the great ape
+ボスバルカンの握り締めたままの拳 : The Fist of the Vulkan boss : The clenched fist of the boss Vulcan
+大猿の大胸筋 : VulkBreast : The pectoral muscles of the great ape
+ボスバルカンの鍛え上げられた大胸筋 : The Pec Muscles of the Vulkan boss : The well-trained pectoral muscles of the boss Vulcan
+雪猿の皮 : Vulkpelt : The skin of the snow aped 
+白くしなやかなバルカンの皮 : The pelt of a vulkan : The white and supple skin of the Vulcan
+雪猿の毛 : Vulk fur : The fur of the snow aped
+バルカンの上半身を覆う白い毛 : The fur of a Vulkan : The white fur covering the upper half of the Vulcan
+雪猿の尖耳 : Vulk ear: The pointed ears of the snow aped
+バルカンが持つ角のように尖った耳 : The ear of a Vulkan : The pointed ears that the Vulcan has
 雪猿のアゴヒゲ : : The beard of the snow aped
 バルカンのアゴから突き出るヒゲ : : The beard sticking out from the chin of the Vulcan
 雪猿のシッポ : : The tail of the snow aped 
