@@ -6,13 +6,13 @@
 攻撃力 : Guts : Offensive ability
 防御力 : Sturdy : Defense power
 素早さ : Swift : Quickness
-全状態異常耐性 : Ribbon : Abnormal resistance to all states
-マヒ耐性 : Earthed : Paralysis tolerance
-凍結耐性 : Fiery : Freeze tolerance
-石化耐性 : Ageless : Petrifaction tolerance
-水牢耐性 :  : Water prison tolerance
+全状態異常耐性 : Status immune : Abnormal resistance to all states
+マヒ耐性 : Para imm : Paralysis tolerance
+凍結耐性 : Frost im : Freeze tolerance
+石化耐性 : Petra im : Petrifaction tolerance
+水牢耐性 : Drown im : Water prison tolerance
 眠り耐性 : Insomnia : Sleep resistance
-火傷耐性 : Fluids : Burn resistant
+火傷耐性 : Flame im : Burn resistant
 ボルテージ増加速度 : Charge : Voltage increase acceleration
 重量 : Mass : Weight
 属性付加（火） : Blaze : Attribute addition (fire)
@@ -20,10 +20,10 @@
 属性付加（風） : TailWind : Additional attributes (Wind)
 属性付加（土） : SandVeil : Attribute addition (earth)
 属性付加（氷） : Icicle : Additional attributes (ice)
-属性耐性（雷） : Limber : Attribute resistance (lightning)
-属性耐性（火） : Damp : Attribute tolerance (fire)
+属性耐性（雷） : Sparks : Attribute resistance (lightning)
+属性耐性（火） : Dampen : Attribute tolerance (fire)
 属性耐性（水） : Steamy : Attribute tolerance (water)
-属性耐性（風） : WindPress : Attribute tolerance (wind)
+属性耐性（風） : AeroDynamic : Attribute tolerance (wind)
 属性耐性（土） : Levitate : Attribute tolerance (earth)
 属性耐性（氷） : HotBody : Attribute resistance (ice)
 属性耐性（雷） : Grounded : Attribute resistance (lightning)
@@ -31,6 +31,6 @@
 打ち上げ : Launch : launch
 吹き飛ばし : Repel : Blow Away
 崩れ落ち力 : Collapse : Collapse force
-特殊攻撃発生率 : +Crit : Special attack rate of occurrence
-取得経験値 : +EXP : Get experience points
-報酬額 : +Loot : Amount of reward
+特殊攻撃発生率 : Crit up : Special attack rate of occurrence
+取得経験値 : EXP up : Get experience points
+報酬額 : Loot+ : Amount of reward
