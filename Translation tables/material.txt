@@ -1,5 +1,7 @@
 // Translation format :
 // [Japanese text] : [Actual implementation] : [Actual meaning]
+// Duplicator(デュプリケーター) was found in eventtext042,044,060,063, & 064
+
 
 蒼魔の毛 : MagicFur : Blue Magic Hair
 伝説の魔物が持つ深い蒼をした毛皮 : Blue fur of a monster : Deep blue fur of a legendary monster
@@ -45,9 +47,9 @@
 デュプリケーターの翼骨 : : Duplicator Wingbone
 幻翼獣の涙 : : Tears of the Phantom Beast
 デュプリケーターの邪眼からこぼれた涙 : : Tears from the Duplicator's Evil Eye
-幻翼獣の邪眼 : : Evil Eye of the Phantom Beast
+幻翼獣の邪眼 : Evil eye : Evil Eye of the Phantom Beast
 太古より、多くのモノを複製してきた邪眼 : : The evil eye has been replicating many things since ancient times.
-幻翼獣の魂玉 : : Soul Orb of the Mystical Winged Beast
+幻翼獣の魂玉 : Soul Orb : Soul Orb of the Mystical Winged Beast
 デュプリケーターを倒した時に現れた玉 : : The ball that appeared when you defeated the Duplicator
 翔魔の大爪 : : The Great Claw of the Shoma
 ワイバーンの大きく鋭い爪 : : Wyvern's large, sharp claws
