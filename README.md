@@ -1,3 +1,12 @@
+![Static Badge](https://img.shields.io/badge/Slow%20updates-red)
+![Static Badge](https://img.shields.io/badge/Send%20Help-yellow)
+![GitHub License](https://img.shields.io/github/license/Alehmann04/Fairy-Tail-Portible-Guild-English-Translation)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Alehmann04/Fairy-Tail-Portible-Guild-English-Translation)
+![GitHub last commit](https://img.shields.io/github/last-commit/Alehmann04/Fairy-Tail-Portible-Guild-English-Translation)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/Alehmann04/Fairy-Tail-Portible-Guild-English-Translation)
+
+
+
 Fairy Tail Portable Guild - English Translaton patch
 ====================================================
 
