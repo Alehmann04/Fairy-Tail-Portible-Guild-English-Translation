@@ -1,0 +1,28 @@
+// Translation Template
+// [Japanesse name(s)] : [Enemies folder name] : [English name]
+
+ : Balkan : Vulkan
+ : Balkan2 : Vulkan
+ : Caterpillar :
+ : Deliora : Deliora
+ : Eligor :
+ : Everlue : Duke Everlue
+ : Goblin
+ : Goblin1
+ : Goblin2
+ : Guru1
+ : Guru2
+ : HornDragon
+ : Jelly
+ : Jose
+ : Lantern
+ : Mushroom
+ : Pawn1
+ : Pawn2
+ : Pawn3
+ : Pawn4
+ : Pawn5
+ : RockDragon
+ : SharkBird
+ : Tiger
+ : Wyvern : Wyvern

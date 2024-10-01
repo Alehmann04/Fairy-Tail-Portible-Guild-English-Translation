@@ -55,175 +55,176 @@ _________________________________________________
 
 Done
 ----
-* ★ Completly translated
-  * ★ items
+- [x] Completly translated
+	- [x] items
 	
-Todo (□ = not done, ▼ = Partal, ★ = done)
+Todo
 ----
-* □ complete translation tables
+- [ ] complete translation tables
 ______________________________
-  * □ Add the untranslated text to each of the translation tables for:
-    * □ eventtext
-    * ▼ eventtext000-010 (000, 001, 002, 003)
-    * □ eventtext011-020
-    * □ eventtext021-030
-    * □ eventtext031-040
-    * □ eventtext041-050
-    * □ eventtext051-060
-    * □ eventtext061-070
-    * □ eventtext071-080
-    * □ eventtext081-090
-    * □ eventtext091-100
-    * □ eventtext101-110
-    * □ eventtext111-120
-    * □ eventtext121-130
-    * □ eventtext131-140
-    * □ eventtext141-150
-    * □ GuildEvent
-    * □ GuildEventText
-    * □ GuildEventFirst
-    * □ GuildEventFirstText
-    * □ Powerupitem
-    * □ Quest
-    * □ QuestAssist
-    * ★ skills
-    * ★ items
-    * ★ materials
-  * □ Add the speakers to the translation tables for:
-    * □ eventtext
-    * ▼ eventtext000-010 (*000)
-    * □ eventtext011-020
-    * □ eventtext021-030
-    * □ eventtext031-040
-    * □ eventtext041-050
-    * □ eventtext051-060
-    * □ eventtext061-070
-    * □ eventtext071-080
-    * □ eventtext081-090
-    * □ eventtext091-100
-    * □ eventtext101-110
-    * □ eventtext111-120
-    * □ eventtext121-130
-    * □ eventtext131-140
-    * □ eventtext141-150
-    * □ GuildEvent
-    * □ GuildEventText
-    * □ GuildEventFirst
-    * □ GuildEventFirstText
-    * □ Powerupitem
-    * □ Quest
-    * □ QuestAssist
+	- [ ] Add the untranslated text to each of the translation tables for:
+		- [ ] eventtext
+		- [ ] eventtext000-010 (completed: 000, 001, 002, 003)
+		- [ ] eventtext011-020
+    	- [ ] eventtext021-030
+    	- [ ] eventtext031-040
+    	- [ ] eventtext041-050
+    	- [ ] eventtext051-060
+    	- [ ] eventtext061-070
+    	- [ ] eventtext071-080
+    	- [ ] eventtext081-090
+    	- [ ] eventtext091-100
+    	- [ ] eventtext101-110
+    	- [ ] eventtext111-120
+    	- [ ] eventtext121-130
+    	- [ ] eventtext131-140
+    	- [ ] eventtext141-150
+    	- [ ] GuildEvent
+    	- [ ] GuildEventText
+    	- [ ] GuildEventFirst
+    	- [ ] GuildEventFirstText
+    	- [ ] Powerupitem
+    	- [ ] Quest
+    	- [ ] QuestAssist
+    	- [x] skills
+    	- [x] items
+    	- [x] materials
+		
+  	- [ ] Add the speakers to the translation tables for:
+    	- [ ] eventtext
+		- [ ] eventtext000-010 (completed: 000)
+    	- [ ] eventtext011-020
+    	- [ ] eventtext021-030
+    	- [ ] eventtext031-040
+    	- [ ] eventtext041-050
+    	- [ ] eventtext051-060
+    	- [ ] eventtext061-070
+    	- [ ] eventtext071-080
+    	- [ ] eventtext081-090
+    	- [ ] eventtext091-100
+    	- [ ] eventtext101-110
+    	- [ ] eventtext111-120
+    	- [ ] eventtext121-130
+    	- [ ] eventtext131-140
+    	- [ ] eventtext141-150
+    	- [ ] GuildEvent
+    	- [ ] GuildEventText
+    	- [ ] GuildEventFirst
+    	- [ ] GuildEventFirstText
+    	- [ ] Powerupitem
+    	- [ ] Quest
+    	- [ ] QuestAssist
   
-  * □ Directly translate the text in the translation tables for:
-    * □ eventtext
-    * □ eventtext000-010
-    * □ eventtext011-020
-    * □ eventtext021-030
-    * □ eventtext031-040
-    * □ eventtext041-050
-    * □ eventtext051-060
-    * □ eventtext061-070
-    * □ eventtext071-080
-    * □ eventtext081-090
-    * □ eventtext091-100
-    * □ eventtext101-110
-    * □ eventtext111-120
-    * □ eventtext121-130
-    * □ eventtext131-140
-    * □ eventtext141-150
-    * □ GuildEvent
-    * □ GuildEventText
-    * □ GuildEventFirst
-    * □ GuildEventFirstText
-    * □ Powerupitem
-    * □ Quest
-    * □ QuestAssist
-    * ★ skill
-    * ★ items
-    * ★ material
+  	- [ ] Directly translate the text in the translation tables for:
+    	- [ ] eventtext
+    	- [ ] eventtext000-010
+    	- [ ] eventtext011-020
+    	- [ ] eventtext021-030
+    	- [ ] eventtext031-040
+    	- [ ] eventtext041-050
+    	- [ ] eventtext051-060
+    	- [ ] eventtext061-070
+    	- [ ] eventtext071-080
+    	- [ ] eventtext081-090
+    	- [ ] eventtext091-100
+    	- [ ] eventtext101-110
+    	- [ ] eventtext111-120
+    	- [ ] eventtext121-130
+    	- [ ] eventtext131-140
+    	- [ ] eventtext141-150
+    	- [ ] GuildEvent
+    	- [ ] GuildEventText
+    	- [ ] GuildEventFirst
+    	- [ ] GuildEventFirstText
+    	- [ ] Powerupitem
+    	- [ ] Quest
+    	- [ ] QuestAssist
+    	- [x] skill
+    	- [x] items
+    	- [x] material
 	
-  * □ Add implementable translations to the translation tables for:
-    * □ eventtext
-    * ▼ eventtext000-010 (*000)
-    * □ eventtext011-020
-    * □ eventtext021-030
-    * □ eventtext031-040
-    * □ eventtext041-050
-    * □ eventtext051-060
-    * □ eventtext061-070
-    * □ eventtext071-080
-    * □ eventtext081-090
-    * □ eventtext091-100
-    * □ eventtext101-110
-    * □ eventtext111-120
-    * □ eventtext121-130
-    * □ eventtext131-140
-    * □ eventtext141-150
-    * □ GuildEvent
-    * □ GuildEventText
-    * □ GuildEventFirst
-    * □ GuildEventFirstText
-    * □ Powerupitem
-    * □ Quest
-    * □ QuestAssist
-    * ★ skill
-    * ★ items
-    * ▼ material
+  	- [ ] Add implementable translations to the translation tables for:
+    	- [ ] eventtext
+		- [ ] eventtext000-010 (completed: 000)
+    	- [ ] eventtext011-020
+    	- [ ] eventtext021-030
+    	- [ ] eventtext031-040
+    	- [ ] eventtext041-050
+    	- [ ] eventtext051-060
+    	- [ ] eventtext061-070
+    	- [ ] eventtext071-080
+    	- [ ] eventtext081-090
+    	- [ ] eventtext091-100
+    	- [ ] eventtext101-110
+    	- [ ] eventtext111-120
+    	- [ ] eventtext121-130
+    	- [ ] eventtext131-140
+    	- [ ] eventtext141-150
+    	- [ ] GuildEvent
+    	- [ ] GuildEventText
+    	- [ ] GuildEventFirst
+    	- [ ] GuildEventFirstText
+    	- [ ] Powerupitem
+    	- [ ] Quest
+    	- [ ] QuestAssist
+    	- [x] skill
+    	- [x] items
+		- [ ] material (Partal)
 
-* □ Complete the translation of the Hex files
+- [ ] Complete the translation of the Hex files
 _____________________________________________
-  * □ Add translated names to the bin files for:
-    * □ eventtext
-    * □ eventtext000-010
-    * □ eventtext011-020
-    * □ eventtext021-030
-    * □ eventtext031-040
-    * □ eventtext041-050
-    * □ eventtext051-060
-    * □ eventtext061-070
-    * □ eventtext071-080
-    * □ eventtext081-090
-    * □ eventtext091-100
-    * □ eventtext101-110
-    * □ eventtext111-120
-    * □ eventtext121-130
-    * □ eventtext131-140
-    * □ eventtext141-150
-    * □ GuildEvent
-    * □ GuildEventText
-    * □ GuildEventFirst
-    * □ GuildEventFirstText
-    * □ Powerupitem
-    * □ Quest
-    * □ QuestAssist
+	- [ ] Add translated names to the bin files for:
+    	- [ ] eventtext
+    	- [ ] eventtext000-010
+    	- [ ] eventtext011-020
+    	- [ ] eventtext021-030
+    	- [ ] eventtext031-040
+    	- [ ] eventtext041-050
+    	- [ ] eventtext051-060
+    	- [ ] eventtext061-070
+    	- [ ] eventtext071-080
+    	- [ ] eventtext081-090
+    	- [ ] eventtext091-100
+    	- [ ] eventtext101-110
+    	- [ ] eventtext111-120
+    	- [ ] eventtext121-130
+    	- [ ] eventtext131-140
+    	- [ ] eventtext141-150
+    	- [ ] GuildEvent
+    	- [ ] GuildEventText
+    	- [ ] GuildEventFirst
+    	- [ ] GuildEventFirstText
+    	- [ ] Powerupitem
+    	- [ ] Quest
+    	- [ ] QuestAssist
 	
-  * □ Add the translated text to the bin files for:
-    * □ eventtext
-    * □ eventtext000-010
-    * □ eventtext011-020
-    * □ eventtext021-030
-    * □ eventtext031-040
-    * □ eventtext041-050
-    * □ eventtext051-060
-    * □ eventtext061-070
-    * □ eventtext071-080
-    * □ eventtext081-090
-    * □ eventtext091-100
-    * □ eventtext101-110
-    * □ eventtext111-120
-    * □ eventtext121-130
-    * □ eventtext131-140
-    * □ eventtext141-150
-    * □ GuildEvent
-    * □ GuildEventText
-    * □ GuildEventFirst
-    * □ GuildEventFirstText
-    * □ Powerupitem
-    * □ Quest
-    * □ QuestAssist
-    * □ skill
-    * ★ items
-    * □ material	
+  	- [ ] Add the translated text to the bin files for:
+    	- [ ] eventtext
+    	- [ ] eventtext000-010
+    	- [ ] eventtext011-020
+    	- [ ] eventtext021-030
+    	- [ ] eventtext031-040
+    	- [ ] eventtext041-050
+    	- [ ] eventtext051-060
+    	- [ ] eventtext061-070
+    	- [ ] eventtext071-080
+    	- [ ] eventtext081-090
+    	- [ ] eventtext091-100
+    	- [ ] eventtext101-110
+    	- [ ] eventtext111-120
+    	- [ ] eventtext121-130
+    	- [ ] eventtext131-140
+    	- [ ] eventtext141-150
+    	- [ ] GuildEvent
+    	- [ ] GuildEventText
+    	- [ ] GuildEventFirst
+    	- [ ] GuildEventFirstText
+    	- [ ] Powerupitem
+    	- [ ] Quest
+    	- [ ] QuestAssist
+    	- [ ] skill
+    	- [x] items
+    	- [ ] material	
 
 Credit
 ------
