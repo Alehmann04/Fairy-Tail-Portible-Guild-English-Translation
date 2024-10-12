@@ -1,28 +1,48 @@
 // Translation Template
-// [Japanesse name(s)] : [Enemies folder name] : [English name]
+// [Short code] : [Corrected English name] : [Direct English name] : [Enemies folder name] : [Additonal Info]* 
+// * if applicable
 
- : Balkan : Vulkan
- : Balkan2 : Vulkan
- : Caterpillar :
- : Deliora : Deliora
- : Eligor :
- : Everlue : Duke Everlue
- : Goblin
- : Goblin1
- : Goblin2
- : Guru1
- : Guru2
- : HornDragon
- : Jelly
- : Jose
- : Lantern
- : Mushroom
- : Pawn1
- : Pawn2
- : Pawn3
- : Pawn4
- : Pawn5
- : RockDragon
- : SharkBird
- : Tiger
- : Wyvern : Wyvern
+B00 : : Goblin : Goblin1 : Winged Bird Man
+BA2 : Vulkan(M) : Vulkan : Balkan2 : Mountain Vulkan (White)
+BA3 : Vulkan(m) : Vulkan : Balkan2 : Forest Vulcan (Green) 
+BAL : Vulkan(f) : Vulkan : Balkan : "Boss" Mountain Vulkan (White)
+DE2 : : Deliora : Deliora : tan and red Deliora
+none : : Deliora : Deliora : Blue form Deliora
+DR2 : : Wyvern : Wyvern2 : Orange Wyvern
+DR3 : : Wyvern : Wyvern3 : White Wyvern
+DRG : : Wyvern : Wyvern : Yellow Wyvern
+EBA : : Duke Everlue : Everlue : Duke Everlue
+ELI : : Erigor : Eligor : Erigor (Eisenwald)
+GOB : : Goblin : Goblin : Non-Canon large red humanoid in a barrel
+H01 : : Grunt1 : Pawn1 :
+H02 : : Grunt2 : Pawn2 :
+H03 : : Grunt3 : Pawn3 :
+H04 : : Grunt4 : Pawn4 :
+H05 : : Grunt5 : Pawn5 :
+JOS : : Jose : Jose : Jose (Phantom Lord arc) 
+K01 : : Guru1 : Guru1 :
+K02 : : Guru2 : Guru2 :
+NAT : : Natsu : Jose :
+PM2 : : Lantern2 : Lantern : Skull Lantern
+PMP : : Lantern : Lantern : Leaf Lantern
+RO2 : : RockDragon2 : RockDragon :
+ROK : : RockDragon : RockDragon :
+TR2 : : HornDragon2 : HornDragon :
+TRI : : HornDragon : HornDragon :
+W00 : : Goblin1 : Goblin1 : Blue Canon Goblin
+W01 : : Goblin2 : Goblin1 & Goblin2 : Green Canon Goblins, Goblin1 with weapon, Goblin2 without
+W04 : : Mushroom : Mushroom :
+W05 : Slime : Jelly : Jelly : Red Slime
+Z00 : Goblin(R) : Goblin3 : Goblin1 : Red Canon Goblin
+Z01 : Goblin(R) : Goblin4 : Goblin2 : Red Canon Goblin
+Z02 : SharkBird : SharkBird : SharkBird & Goblin2 : 
+Z03 : Tiger : Tiger : Tiger :
+Z04 : ParaGomba : Mushroom : Mushroom :
+Z05 : Slime : Jelly2 : Jelly : Light Blue Slime
+Z06 : : Caterpillar : Caterpillar :
+Z5A : Slime : Jelly3 : Jelly : Red(Fire) Slime
+Z5B : Slime : Jelly4 : Jelly : Blue Slime
+Z5C : Slime : Jelly5 : Jelly : White(Fluff?) Slime
+Z5D : Slime : Jelly6 : Jelly : Brown(Rock) Slime
+Z5E : Slime : Jelly7 : Jelly : White(Snow) Slime
+Z5F : Slime : Jelly8 : Jelly : Orange(Cat?) Slime
