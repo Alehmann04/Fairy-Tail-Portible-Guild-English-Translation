@@ -62,8 +62,8 @@ Todo
 ----
 - [ ] complete translation tables
 	- [ ] Add the untranslated text to each of the translation tables for:
-		- [ ] eventtext
-		- [ ] eventtext000-010 (completed: 000, 001, 002, 003)
+		- [x] eventtext
+		- [ ] eventtext000-010 (completed: 000, 001, 002, 003, 004)
 		- [ ] eventtext011-020
 		- [ ] eventtext021-030
 		- [ ] eventtext031-040
