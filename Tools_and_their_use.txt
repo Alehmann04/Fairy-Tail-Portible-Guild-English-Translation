@@ -1,0 +1,11 @@
+Hex editor, MadEdit-Mod
+  to find and replace text (.bin)
+
+Criware decryption/encryption, critools 
+  to unpack/pack the assets for the game (.cpk) 
+
+PSP iso packager, UMDGen
+  to rebuild the disk image (.iso)
+
+model viewer, Noesis
+  to help identify and rename the models and items assosiated with them.
