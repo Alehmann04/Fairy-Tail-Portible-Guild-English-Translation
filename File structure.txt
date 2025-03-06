@@ -1,0 +1,31 @@
+base.iso 
+  ├─ PSP_GAME
+      ├─ ICON0.PNG (ignore)
+      ├─ PARAM.SFO (ignore)
+      ├─ PARAM.txt (ignore)
+      ├─ PIC1.PNG (ignore)
+      ├─ INSDIR (ignore)
+      ├─ SYSDIR (ignore)
+      ├─ USRDIR
+          ├─ Movies (ignore)
+          ├─ FTPACK.cpk (this is the focus)
+          ├─ FTPACKMC.cpk (ignore)
+          ├─ FTPACKMH.cpk (ignore)
+
+
+FTPACK.cpk
+  ├─ Camera (ignore)
+  ├─ Decoparts (ignore)
+  ├─ Enemies (This is where all the enemey models and textures are)
+  ├─ Fonts (ignore)
+  ├─ Fx (ignore)
+  ├─ HUD (ignore)
+  ├─ Players (this is all the playable char's models and textures are, including outfits)
+  ├─ SaveIcon (ignore)
+  ├─ Scripts (ignore)
+  ├─ Sounds (ignore)
+  ├─ StaffRoll (ignore)
+  ├─ Tables (this is the good stuff)
+      ├─ All eventtextXXX.bin are text, the first portion tells the game when to call what along with who and what to show, the last portion is a block of text, that is the actual dialog
+      ├─ All the .bin will likely eventuly be translated but the beside the eventtext some like item, magic, monsterdrop, and skill are top priority
+  ├─ Zodiac (this is where the models and textures for summons are)
